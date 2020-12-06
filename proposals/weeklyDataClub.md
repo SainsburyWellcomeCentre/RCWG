@@ -1,3 +1,5 @@
+title: Weekly Data Club
+
 # Author(s):
 
 - Spencer Wilson, Fred Marbach
