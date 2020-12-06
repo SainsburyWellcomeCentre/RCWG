@@ -1,4 +1,5 @@
-title: Weekly Data Club
+Weekly Data Club
+================
 
 # Author(s):
 
