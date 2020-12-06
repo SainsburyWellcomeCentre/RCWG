@@ -1,4 +1,3 @@
-<!-----
 NEW: Check the "Suppress top comment" option to remove this info from the output.
 
 Conversion time: 2.22 seconds.
