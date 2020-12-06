@@ -11,4 +11,4 @@ Science Research Culture Working Group Portal
 - [Open-science forum](proposals/openScienceForum.html)
 
 # Minutes
-All the S-RCWG minutes can be found <a href="minutes/all.html">here</a>.
+All the S-RCWG minutes can be found <a href="minutes/allMinutes.html">here</a>.
