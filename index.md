@@ -5,7 +5,7 @@ Science Research Culture Working Group Portal
 
 # Proposals
 
-- [Weekly data club](proposals/weeklyDataClub.html)
+- [Weekly data clubs](proposals/weeklyDataClubs.html)
 - [Cross-disciplinary rotations](proposals/rotations.html)
 - [Collaborative data clubs](proposals/collaborativeDataClubs.html)
 - [Seed grants for collaborative research](proposals/seedGrants.html)
