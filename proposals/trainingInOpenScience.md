@@ -31,5 +31,5 @@ I suggest that after the PyStarters course we offer a **certification** exam, th
 
 # Stakeholders
 
-- Any SWC/GCNU producing scientif results.
+- Any SWC/GCNU member producing scientif results.
 
