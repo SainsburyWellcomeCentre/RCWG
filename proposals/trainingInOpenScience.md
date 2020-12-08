@@ -16,7 +16,7 @@ Proposal: (Certified) training in open-science tools
 - Allow SWC/GCNU scientist to produced science that can be replicated
 
 # Motivations
-#
+
 - The biomedical science is facing a replication crisis. A large proportion (>70%) of recent biomedical findings cannot be replicated. Thus, it is essential that we disseminate our findings with data (whenever possible), documentation and code to facilitate their replication.
 
 - It is also of interest to SWC members to disseminate their work to show others their research. 
