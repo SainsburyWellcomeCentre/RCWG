@@ -3,7 +3,7 @@ Proposal: Weekly Data and/or Non-Data Clubs
 
 # Author(s):
 
-- Spencer Wilson, Fred Marbach
+- Spencer Wilso
 
 
 # Concept
