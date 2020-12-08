@@ -1,4 +1,4 @@
-Proposal: Weekly Data Clubs
+Proposal: Weekly Data and/or Non-Data Clubs
 ===========================
 
 # Author(s):
