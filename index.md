@@ -13,7 +13,7 @@ Science Research Culture Working Group Portal
 - [Seed grants for collaborative research](proposals/seedGrants.html)
 - [(Certified) training in open-science tools](proposals/trainingInOpenScience.html)
 - [Science slack channels](https://swc-neuro.slack.com/files/T7S8UFBGR/F01GBDU8EMN) (Slack link)
-- [Science working groups](proposal/scienceWorkingGroups2.html)
+- [Science working groups](proposals/scienceWorkingGroups2.html)
 - [Open-science forum](proposals/openScienceForum.html)
 
 # Minutes
