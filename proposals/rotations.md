@@ -1,5 +1,5 @@
-Proposal: Rotations
-===================
+Proposal: Cross-disciplinary rotations
+======================================
 
 # Author(s):
 
