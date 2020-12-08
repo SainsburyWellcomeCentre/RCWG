@@ -1,5 +1,5 @@
-Proposal: Weekly Data Club
-==========================
+Proposal: Collaborative Data Clubs
+==================================
 
 # Author(s):
 
