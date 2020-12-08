@@ -25,7 +25,7 @@ Proposal: (Certified) training in open-science tools
 
 To produce open science it is important that we know how to use open science tools like Git, Github, Conda and Python.
 
-We have organised the *PyStarters* course teaching SWC/GCNU members to open-science tools. We also had the the journal-club-style *PyClub*, where we discussed Python, and other open-science-related tools. Besides discussing tools, these events are great to foster interactions and collaborations.
+We have organised the **PyStarters** course teaching SWC/GCNU members to open-science tools. We also had the the journal-club-style **PyClub**, where we discussed Python, and other open-science-related tools. Besides discussing tools, these events are great to foster interactions and collaborations.
 
 I suggest that after the PyStarters course we offer a *certification* exam, that validates that people that passed this exam have a good understanding of open-science tools. We could then recommend every lab at the SWC/GCNU to have at least one member that is certified in open-science tools.
 
