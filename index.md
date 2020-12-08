@@ -5,7 +5,7 @@ Science Research Culture Working Group Portal
 
 # Proposals
 
-- [Mopnthly data and/or non-data clubs](proposals/weeklyDataNonDataClubs.html)
+- [Weekly data and/or non-data clubs](proposals/weeklyDataNonDataClubs.html)
 - [Cross-disciplinary rotations](proposals/rotations.html)
 - [Collaborative data clubs](proposals/collaborativeDataClubs.html)
 - [Journal clubs deliverd by experimental and computational neuroscientists](proposals/jcsByComputationalAndExperimental.md)
