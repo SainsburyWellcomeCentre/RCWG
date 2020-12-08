@@ -18,3 +18,7 @@ Science Research Culture Working Group Portal
 
 # Minutes
 All the S-RCWG minutes can be found <a href="minutes/allMinutes.html">here</a>.
+
+# Slack Channel
+
+The S-RCWG Slack channel can be gound [here](https://swc-neuro.slack.com/archives/C01CK2NTV32)
