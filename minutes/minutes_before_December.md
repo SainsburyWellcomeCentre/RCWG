@@ -1,8 +1,3 @@
-# Meeting 8/12/20
-
-**Agenda**
-
-
 # Meeting 24/11/20
 
 Facilitator: Spencer
