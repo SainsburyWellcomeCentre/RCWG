@@ -21,4 +21,4 @@ All the S-RCWG minutes can be found <a href="minutes/minutes_index.html">here</a
 
 # Slack Channel
 
-The S-RCWG Slack channel can be gound [here](https://swc-neuro.slack.com/archives/C01CK2NTV32)
+The S-RCWG Slack channel can be found [here](https://swc-neuro.slack.com/archives/C01CK2NTV32)
