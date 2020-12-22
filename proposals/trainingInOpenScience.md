@@ -35,6 +35,6 @@ I suggest that after the PyStarters course we offer a **certification** exam, th
 
 # References
 
-. Button, K. S., Ioannidis, J. P., Mokrysz, C., Nosek, B. A., Flint, J., Robinson, E. S., & Munafò, M. R. (2013). Power failure: why small sample size undermines the reliability of neuroscience. Nature reviews neuroscience, 14(5), 365-376 [link](https://www.nature.com/articles/nrn3475).
+. Button, K. S., Ioannidis, J. P., Mokrysz, C., Nosek, B. A., Flint, J., Robinson, E. S., & Munafò, M. R. (2013). Power failure: why small sample size undermines the reliability of neuroscience. Nature reviews neuroscience, 14(5), 365-376 ([link](https://www.nature.com/articles/nrn3475)).
 
-. Open Science Collaboration. (2015). Estimating the reproducibility of psychological science. Science, 349(6251) [link](https://science.sciencemag.org/content/349/6251/aac4716).
+. Open Science Collaboration. (2015). Estimating the reproducibility of psychological science. Science, 349(6251) ([link](https://science.sciencemag.org/content/349/6251/aac4716)).
