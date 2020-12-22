@@ -17,7 +17,7 @@ Proposal: (Certified) training in open-science tools
 
 # Motivations
 
-- The biomedical science is facing a replication crisis. A large proportion (>70%) of recent biomedical findings cannot be replicated. Thus, it is essential that we disseminate our findings with data (whenever possible), documentation and code to facilitate their replication.
+- The biomedical science is facing a replication crisis (Button et al., 2013). A large proportion (>80%) of recent biomedical findings cannot be replicated (Open Science Collaboration, 2015). Thus, it is essential that we disseminate our findings with data (whenever possible), documentation and code to facilitate their replication.
 
 - It is also of interest to SWC members to disseminate their work to show others their research. 
 
@@ -33,3 +33,8 @@ I suggest that after the PyStarters course we offer a **certification** exam, th
 
 - Any SWC/GCNU member producing scientif results.
 
+# References
+
+. Button, K. S., Ioannidis, J. P., Mokrysz, C., Nosek, B. A., Flint, J., Robinson, E. S., & Munafò, M. R. (2013). Power failure: why small sample size undermines the reliability of neuroscience. Nature reviews neuroscience, 14(5), 365-376.
+
+. Open Science Collaboration. (2015). Estimating the reproducibility of psychological science. Science, 349(6251).
