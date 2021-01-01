@@ -6,18 +6,18 @@ authors: Joaquin Rapela, Hernando M. Vergara
 
 If you don't know, ask someone!
 
-# Concept
+### Concept
 
 - Talks by external leaders on collaborative research
 - Talks on new ideas on how to organize the future of scientific research (e.g. policy, publication system...)
 
-# Purpose
+### Purpose
 
 - Learn from other's experiences about the construction of collaborative research environments
 - Spark the imagination for what scientific environment we want to build
 
 
-# Implementation
+### Implementation
 
 For example, we could ask:
 
@@ -30,7 +30,7 @@ For example, we could ask:
 
 to deliver talks at the SWC about their experiences and ideas organising their multidisciplinary environments, what things work and what did not, how they perform their sociological experiments (e.g., motivations), how they see the future of team-based Neuroscience.
 
-# Stakeholders
+### Stakeholders
 
 - Anyone interested in sociological aspects of building collaborative research environments.
 

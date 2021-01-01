@@ -8,10 +8,6 @@ Promote collaboration between Gatbsy and SWC through the PhD program.
 
 <!--below excerpt-->
 
-### Author(s):
-
-{{ page. authors }}
-
 ### Purpose
 
 Provide SWC PhD students computation research experience mentored by GCNU scientists and provide GCNU PhD students experimental research experience mentored by SWC scientists.

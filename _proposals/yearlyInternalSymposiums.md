@@ -7,12 +7,12 @@ authors: Hernando M. Vergara, Fred Marbach
 One-day internal symposium to hear about ongoing research
 
 
-# Purpose
+### Purpose
 
 - Originally suggested by Marcus Stephenson-Jones, this event would help us stay up to date with SWC/GCNU research and boost collaborations
 
 
-# Implementation
+### Implementation
 
 Once every year, dedicate one day to do an internal symposium that includes:
  - talks by some PIs on ongoing research
