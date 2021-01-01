@@ -1,7 +1,7 @@
 ---
 layout: proposal
 title: A Template for New Proposals
-authors: Spencer Wilson
+authors: RCWGers
 ---
 
 Here is where your one-line summary goes.
