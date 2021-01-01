@@ -1,18 +1,23 @@
-Proposal: Cross-disciplinary rotations
-======================================
+---
+layout: proposal
+title: Cross-disciplinary Rotations
+authors: Ana Saraiva Ayash, Joaquin Rapela
+---
 
-# Author(s):
+Promote collaboration between Gatbsy and SWC through the PhD program.
 
-- Ana Saraiva Ayash, Joaquin Rapela
+<!--below excerpt-->
+
+### Author(s):
+
+{{ page. authors }}
+
+### Purpose
+
+Provide SWC PhD students computation research experience mentored by GCNU scientists and provide GCNU PhD students experimental research experience mentored by SWC scientists.
 
 
-# Purpose
-
-- Provide SWC PhD students computation research experience mentored by GCNU scientists and
-  provide GCNU PhD students experimental research experience mentored by SWC scientists.
-
-
-# Implementation
+### Implementation
 
 - GCNU PhD students could apply tools they have learned in their courses to  address problems of SWC groups (e.g., use HMMs to characterise social behaviour in Cristina Mazuski's recordings).
 
@@ -20,7 +25,7 @@ Proposal: Cross-disciplinary rotations
 
 - SWC/GCNU PhD students could be mentored by postdoctoral scholars that often are interested in developing mentorship research experience.
 
-# Stakeholders
+### Stakeholders
 
 - SWC/GCNU PhD students
 - SWC/GCNU PhD postdocs

@@ -1,14 +1,10 @@
-Proposal: Science woring groups
-===============================
+---
+layout: proposal
+title: Scientific Working Groups
+authors: Joaquin Rapela
+---
 
-# Author(s):
-
-- Joaquin Rapela
-
-
-# Concept
-
-- Create science working groups
+Working towards a more agile science
 
 # Purpose
 
@@ -36,5 +32,5 @@ Tiago Branco has expertise developing biophysically-inspired models. Steve West 
 
 # Stakeholders
 
-- Any SWC/GCNU scientist 
+- Any SWC/GCNU scientist
 

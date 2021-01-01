@@ -1,15 +1,10 @@
-Proposal: (Certified) training in open-science tools
-====================================================
+---
+layout: proposal
+title: (Certified) training in open-science tools
+authors: Joaquin Rapela
+---
 
-# Author(s):
-
-- Joaquin Rapela
-
-
-# Concept
-
-- Provide basic training to SWC/GCNU members on the use of open-science tools
-
+Provide basic training to SWC/GCNU members on the use of open-science tools
 
 # Purpose
 
@@ -19,7 +14,7 @@ Proposal: (Certified) training in open-science tools
 
 - The biomedical science is facing a replication crisis (Button et al., 2013). A large proportion (>80%) of recent biomedical findings cannot be replicated (Open Science Collaboration, 2015). Thus, it is essential that we disseminate our findings with data (whenever possible), documentation and code to facilitate their replication.
 
-- It is also of interest to SWC members to disseminate their work to show others their research. 
+- It is also of interest to SWC members to disseminate their work to show others their research.
 
 # Implementation
 

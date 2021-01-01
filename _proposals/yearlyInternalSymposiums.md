@@ -1,19 +1,15 @@
-Proposal: Internal symposiums
-==================================
+---
+layout: proposal
+title: Weekly Data and Non-Data Clubs
+authors: Hernando M. Vergara, Fred Marbach
+---
 
-# Author(s):
-
-- Hernando M. Vergara, Fred Marbach [original idea: Marcus Stephenson-Jones]
-
-
-# Concept
-
-- One-day internal symposium to hear about ongoing research
+One-day internal symposium to hear about ongoing research
 
 
 # Purpose
 
-- Stay up to date with SWC/GCNU research and boost collaborations
+- Originally suggested by Marcus Stephenson-Jones, this event would help us stay up to date with SWC/GCNU research and boost collaborations
 
 
 # Implementation

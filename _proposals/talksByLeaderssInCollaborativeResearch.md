@@ -1,10 +1,10 @@
-Proposal: Talks in collaborative research and new ideas for science practice
-=============================================================
+---
+layout: proposal
+title: External Speakers on Scientific Culture
+authors: Joaquin Rapela, Hernando M. Vergara
+---
 
-# Author(s):
-
-- Joaquin Rapela, Hernando M. Vergara
-
+If you don't know, ask someone!
 
 # Concept
 
@@ -21,12 +21,12 @@ Proposal: Talks in collaborative research and new ideas for science practice
 
 For example, we could ask:
 
-- Ken Harris and Mateo Carandini, or Liam Panininksi (IBL)
+- Ken Harris and Mateo Carandini, or Liam Paninksi (IBL)
 - Christof Koch (Allen Institute)
 - Demis Hassabis (Deepmind)
 - Lauren Wool (IBL structure and policy making lead)
-- Andre Marques-Smith (series of blogpost on changing the scientific environment)
-- Kirstie Whitaker (flippin amazing)
+- Andre Marques-Smith (series of blogposts on changing the scientific environment)
+- Kirstie Whitaker (Turing Institute, flippin amazing)
 
 to deliver talks at the SWC about their experiences and ideas organising their multidisciplinary environments, what things work and what did not, how they perform their sociological experiments (e.g., motivations), how they see the future of team-based Neuroscience.
 

@@ -1,15 +1,12 @@
-Proposal: Journal clubs delivered by experimental and computational neuroscientists
-===================================================================================
+---
+layout: proposal
+title: SWC Journal Club
+authors: Joaquin Rapela
+---
 
-# Author(s):
+Journal clubs delivered by a mixture of computational and experimental neuroscientists
 
-- Joaquin Rapela
-
-
-# Concept
-
-- Journal clubs delivered by a mixture of computational en experimental neuroscientists
-
+<!--below excerpt-->
 
 # Purpose
 
