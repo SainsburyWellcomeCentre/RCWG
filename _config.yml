@@ -10,7 +10,6 @@ excerpt_separator: <!--below excerpt-->
 
 source              : .
 destination         : ./_site
-collections_dir     : .
 plugins_dir         : _plugins # takes an array of strings and loads plugins in that order
 layouts_dir         : _layouts
 data_dir            : _data
@@ -19,11 +18,13 @@ sass:
   sass_dir: _sass
 collections:
   proposals:
-    output          : true
+    output: true
+    permalink: /:collection/:name
   minutes:
-    output          : true
+    output: true
+    permalink: /:collection/:name
   posts:
-    output          : true
+    output: true
 
 # Handling Reading
 safe                : false
@@ -55,5 +56,8 @@ incremental         : false
 detach              : false
 port                : 4000
 host                : 127.0.0.1
-baseurl             : "" # does not include hostname
+
+# https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/
+baseurl             : "/S-RCWG" # does not include hostname
+url                 : "https://sainsburywellcomecentre.github.io"
 show_dir_listing    : false
