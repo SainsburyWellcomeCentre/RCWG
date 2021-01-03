@@ -1,3 +1,7 @@
+---
+title: Exported from Google Docs
+---
+
 # Meeting 24/11/20
 
 Facilitator: Spencer
@@ -14,8 +18,8 @@ Notes: Svenja
     2. Data Club
     3. Specialist Slack Channels
 3. Brainstorm around these ideas
-4. Prioritize concrete proposals + design proposal format 
-    4. E.g. issue addressed, solution proposed, stakeholders 
+4. Prioritize concrete proposals + design proposal format
+    4. E.g. issue addressed, solution proposed, stakeholders
 
 **Proposals Ideas in Advance**
 
@@ -33,7 +37,7 @@ Notes: Svenja
 
 
 
-1. Skipping hypothesis-driven stuff for a more conceptual meeting 
+1. Skipping hypothesis-driven stuff for a more conceptual meeting
 2. Joaquin’s grant proposal
     *   Collaborative projects can write a grant to receive small amounts of money \
 These projects don’t have to be SWC/GCNU collaborations, they can be any collaborations between labs
@@ -44,25 +48,25 @@ These projects don’t have to be SWC/GCNU collaborations, they can be any colla
 *   Is it full time or part time commitment?
 *   What is the funding for?
     *   Research costs, equipment
-    *   What is the core goal? 
+    *   What is the core goal?
         *   Two competing goals
             *   Collaborative science and projects (small time, 2h per week)
             *   Launch seed funding for transition points of phd, postdocs, fellowships, etc (more career support oriented)
         *   Are these different goals?
-    *   How specific does the proposal need to be? 
+    *   How specific does the proposal need to be?
     *   Who chooses the recipients?
 
     Outcome: Proposal will be further refined in a process of crowdsourcing (slack posts)
 
 
-    All 
+    All
 
 
-     
+
 
 3. Meta-Proposal: How can we organise proposals and have people responsible for different proposals (Philip) \
 → Philip will come up with ideas of how we could organize our proposals (without too much bureaucracy)
-4. Data Club/Non-Data Club 
+4. Data Club/Non-Data Club
 
     Fred/Spencer: make DC weekly again. Make it possible to make presentations shorter and have many, and increase the probability that it’s actual work in progress \
 Philip: Counter proposal - make it less data heavy (non-data club)
@@ -73,18 +77,18 @@ Philip: Counter proposal - make it less data heavy (non-data club)
 *   It should still be about your project, even when it’s not data-focussed (unlike Gatsby Tea Hour)
 *   Gatsby
     *   Can be overwhelming already, will be tough to get them to a 1hr talk
-    *   Shorter talks would get higher avg gatsby attendance 
+    *   Shorter talks would get higher avg gatsby attendance
 *   This might be more SWC-specific
 *   Make a guideline what the presentations should be like
 *   Idea: have the ‘starter session’ for the new data clubs maybe involve PIs and make sure people are aware of the ‘work in progress’ spirit
-*   PIs are the example -- they have to set that example… 
+*   PIs are the example -- they have to set that example…
 
 5. Slack channels
 
 
 
-*   
-*   Make this more detailed 
+*
+*   Make this more detailed
 
 6. Main meeting
 
@@ -97,7 +101,7 @@ TODO
 
 
 
-*   Point people update their proposals, discuss on slack 
+*   Point people update their proposals, discuss on slack
 *   Build main meeting update (Svenja+Spencer) -- feedback from the group on this
 
 
@@ -118,8 +122,8 @@ Notes: Svenja
 5. How can we think about project organization as method-based, hypothesis-based, and exploratory (Philip)?
 6. Discuss proposal ideas/topics to generate focused discussions
 7. Brainstorm around these ideas
-8. Prioritize concrete proposals + design proposal format 
-    1. E.g. issue addressed, solution proposed, stakeholders 
+8. Prioritize concrete proposals + design proposal format
+    1. E.g. issue addressed, solution proposed, stakeholders
 
 **Notes**
 
@@ -172,14 +176,14 @@ Something DeepMind has we don’t need: Project Manager, since we have a small e
 *   _How do you know who to ask?_
 *   _There is a stigma associated with asking_
 3. SantaFe Institute
-4. IBL 
+4. IBL
     1. Steering group/General Assembly decides on strategic goals
     2. Flat subgroups that generate consensus based decisions
 5. How can we think about project organization as method-based, hypothesis-based, and exploratory (Philip)?
 6. Discuss proposal ideas/topics to generate focused discussions
 7. Brainstorm around these ideas
-8. Prioritize concrete proposals + design proposal format 
-    3. E.g. issue addressed, solution proposed, stakeholders 
+8. Prioritize concrete proposals + design proposal format
+    3. E.g. issue addressed, solution proposed, stakeholders
 
 
 # Main Group Update 6/11/20
@@ -193,11 +197,11 @@ Something DeepMind has we don’t need: Project Manager, since we have a small e
 *   We’re currently working individually to think about these themes and turn them into concrete proposals to present to the main group and senior leadership. These might include
     *   Tools for communicating what research is happening in the building to best support collaboration
     *   Protocols for project-based based work on various timescales (similar to the proposal system the RCWG has embraced more generally)
-*   We’re working individually to collect and share information about other institutes (DeepMind, SFI, etc.) and would welcome anyone who wanted to interview/research how other institutes organize their work (e.g. Janelia, Allen Institute, ???). 
-*   More abstractly, our discussions seem to have pointed to differences in estimates of what people are motivated toward in their work at the SWC/GCNU, particularly with respect to the “classic” academic track and “alternative” tracks in industry or elsewhere. We have reached consensus around the idea that supporting a diverse ecosystem of research journeys will actually enhance the work done in the building, and we look forward to discussing concrete ways of working towards our Utopian Vision of an institute that is home to projects of various people and temporal scales.  
+*   We’re working individually to collect and share information about other institutes (DeepMind, SFI, etc.) and would welcome anyone who wanted to interview/research how other institutes organize their work (e.g. Janelia, Allen Institute, ???).
+*   More abstractly, our discussions seem to have pointed to differences in estimates of what people are motivated toward in their work at the SWC/GCNU, particularly with respect to the “classic” academic track and “alternative” tracks in industry or elsewhere. We have reached consensus around the idea that supporting a diverse ecosystem of research journeys will actually enhance the work done in the building, and we look forward to discussing concrete ways of working towards our Utopian Vision of an institute that is home to projects of various people and temporal scales.
 
 
-# Meeting 03/11/20 
+# Meeting 03/11/20
 
 Facilitator: Spencer
 
@@ -211,7 +215,7 @@ Notes / Shadow Facilitator: Svenja
 2. Discuss current “researcher journeys” at SWC -- TMF? (20mins)
     *   Can we map this out? Similar to the Comms visualization?
     *   How to build better communication opportunities about our research internally?
-        *   Not comms tools, but comm events, norms, behaviors… 
+        *   Not comms tools, but comm events, norms, behaviors…
 3. Brainstorm Utopian Vision (no visions are bad visions!) (15mins)
 4. Brainstorm concrete proposals (no ideas are bad ideas!) (5mins)
 5. Prioritize concrete proposals (10 mins)
@@ -243,12 +247,12 @@ _Rallying around principles, figuring out what is rewarding to people, what are 
 
 2. Current Researcher Journeys at SWC
 
-    PhD: time-limited, purpose: get a degree, but still can encompass very different motivations 
+    PhD: time-limited, purpose: get a degree, but still can encompass very different motivations
 
-*   “Classic” academic goals (have to have own project, big paper) 
+*   “Classic” academic goals (have to have own project, big paper)
 *   Alternative paths -- industry, staff positions (may lead to more collaborative work)
 
-    Post-Docs: leading up to bottleneck bc there’s more PostDocs than PIs, although that is becoming less hierarchical 
+    Post-Docs: leading up to bottleneck bc there’s more PostDocs than PIs, although that is becoming less hierarchical
 
 *   Classic and alternative programs \
 
@@ -345,7 +349,7 @@ Next time: DeepMind (Fred/Spencer) & IBL (Tom/Hernando) summaries_
     *   Write a short paragraph
     *   Keywords on post-its (as many as possible)
 
-**Todo (until 
+**Todo (until
 
 <p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "next meeting"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -355,9 +359,9 @@ Next time: DeepMind (Fred/Spencer) & IBL (Tom/Hernando) summaries_
 
 *   Information gather from other institutes about research practices
     *   DeepMind (Fred/Spencer) & IBL (Tom/Hernando) summaries
-*   Everyone brainstorm concrete ideas for proposals 
+*   Everyone brainstorm concrete ideas for proposals
     *   E.g. project summaries / latest results on wiki/web with updates for changes (sorta like each project as a Git repo, but on the wiki instead)
-    *   
+    *
 
 **Other places to interview / factfind **
 
@@ -371,17 +375,17 @@ Next time: DeepMind (Fred/Spencer) & IBL (Tom/Hernando) summaries_
 
 
 
-*   The worst version of this group (and other subgroups) is that we appear to undermine the legitimacy of senior management, or present a lack of cooperation. Our goal should be to support senior management by providing ideas, frameworks, models to make their decisions more transparent, cohesive, representative. 
+*   The worst version of this group (and other subgroups) is that we appear to undermine the legitimacy of senior management, or present a lack of cooperation. Our goal should be to support senior management by providing ideas, frameworks, models to make their decisions more transparent, cohesive, representative.
 *   What is the goal of the institute? Does this reflect the research journeys we’ve identified? If not, how can we best address this mismatch? How is output measured?
 *   What are the goals of the Wellcome/Sainsbury funding body? How does this relate to what was written in the funding review? How are these goals different from the goals of researchers? Of senior management?
 *   Do we agree that scientific innovation boils down to the ease with which scientific teams can do their day-to-day work?
-*   Sustainable progress is by definition slow. 
-*   We can’t change the culture of science in one swoop, even within the building. But we can build “skunkworks” team(s) that embody a progressive research structure. 
-*   How can we think about attracting the best and brightest? 
+*   Sustainable progress is by definition slow.
+*   We can’t change the culture of science in one swoop, even within the building. But we can build “skunkworks” team(s) that embody a progressive research structure.
+*   How can we think about attracting the best and brightest?
 *   How should we think about strengthening the PhD program (is this in our wheelhouse? _-Yes! But should it be a sub-subgroup?_)
 
 
-# 
+#
 
 
 # Presentation 21/10/20
@@ -414,15 +418,15 @@ Next time: DeepMind (Fred/Spencer) & IBL (Tom/Hernando) summaries_
 
 
 
-*   Styles of research, facilitating a diversity 
+*   Styles of research, facilitating a diversity
 *   Mentoring / mediation (bleeds into careers)
 *   A lot of nuance goes into project management styles, what facilitates motivation/happiness in the work
 
 
-## 
+##
 
 
-# Meeting 14/10/20 
+# Meeting 14/10/20
 
 Additional Themes
 
@@ -430,7 +434,7 @@ SWC-SWC + SWC-GCNU collaborations
 
 Tech transfer within the building
 
-Bring NRF to full potential 
+Bring NRF to full potential
 
 **Why does the group exist?**
 
@@ -446,15 +450,15 @@ Build structures to facilitate collaboration on a multi-person level
 
 Use SWC’s resource to model how we think academia should change
 
-Sharing of ideas, concepts, techniques. Eventually broadcast that outside. 
+Sharing of ideas, concepts, techniques. Eventually broadcast that outside.
 
 Devise strategies and mechanisms to get people talking, to increase research communications and ideas? (within SWC and across SWC-GCNU)
 
-Share ideas publicly with wider research community 
+Share ideas publicly with wider research community
 
 To encourage communication within the building? E.g. with fablabs from the beginning of the project.
 
-Control animals in a more streamlined way, maybe doing more basic work that helps transversely across groups in the SWC. Basic research of animals’ wellbeing. 
+Control animals in a more streamlined way, maybe doing more basic work that helps transversely across groups in the SWC. Basic research of animals’ wellbeing.
 
 Highlight what work is going on in the building, encourage project-based work
 
@@ -474,7 +478,7 @@ Research is career rather than science-question oriented
 
 Get inspired from other institutes: Allen, Crick, DeepMind / Google, ...
 
-What would have more impact, being a scientist or changing research culture? 
+What would have more impact, being a scientist or changing research culture?
 
 We have a lot of overlap with the culture working group-- need to define clearly what our goals are about research specifically.
 
@@ -490,7 +494,7 @@ What PIs do, how they use their time
 
 Diversity of career paths in science
 
-Management within groups, etc. 
+Management within groups, etc.
 
 The challenge is translating a local model (at SWC) to the wider world. Or to use team science as a valid ‘currency’ to get a job elsewhere.
 
@@ -507,16 +511,16 @@ Ana Collated 29/10/20
 
 
 
-*   Some event where SWC people present an aspect of their work / their task and Gatsby, etc can propose and roughly outline models of the behavior / neural activity -- kind of like a modeling bee to help translate between experimental/theoretical language - DATA CLINIC (see 3.1 below)? 
-*   Develop research working groups (see 2.2 below) 
-*   Encourage PhD students to work on something more collaborative/publishable 
+*   Some event where SWC people present an aspect of their work / their task and Gatsby, etc can propose and roughly outline models of the behavior / neural activity -- kind of like a modeling bee to help translate between experimental/theoretical language - DATA CLINIC (see 3.1 below)?
+*   Develop research working groups (see 2.2 below)
+*   Encourage PhD students to work on something more collaborative/publishable
 *   Invite in team scientists to speak
-*   Develop an internal SWC/GCNU journal for pre- and post-publication review - encourage pre-prints and early dissemination of data 
+*   Develop an internal SWC/GCNU journal for pre- and post-publication review - encourage pre-prints and early dissemination of data
 *   Internal documentation (open-source?) of protocols and datasets - ”… “making high quality datasets collected using these protocols publicly available and well documented”
-*   More formal process of devising a research project (involve PhD students in developing this “milestones” approach to be above a formality) - collaborative projects with flatter structures 
+*   More formal process of devising a research project (involve PhD students in developing this “milestones” approach to be above a formality) - collaborative projects with flatter structures
 *   “Study things that will have the most impact toward the scientific mission and make a thoughtful case why each research project is achieving this -- prior to carrying out the project.”
-*   Annual SWC symposium to foster internal awareness of research, personnel, etc 
-*   Internal grants for specific, well-scoped short-term (collaborative) projects - to encourage thinking outside the box? 
+*   Annual SWC symposium to foster internal awareness of research, personnel, etc
+*   Internal grants for specific, well-scoped short-term (collaborative) projects - to encourage thinking outside the box?
 
 **Joaquin 29/10/20**
 
@@ -551,7 +555,7 @@ This [paper](https://www.cell.com/neuron/fulltext/S0896-6273(16)30720-6?_returnU
 
 <span style="text-decoration:underline;">2. Proposals to enhance our (collaborative) research culture</span>
 
-**_2.1 Invite scientists that have successful experiences creating team science_** in experimental/computational neuroscience research environments to talk about their experience (e.g., things that worked and did not worked building their research environments) For example, we could invite Prof. [Christof Koch](https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/christof-koch/) to give a talk. 
+**_2.1 Invite scientists that have successful experiences creating team science_** in experimental/computational neuroscience research environments to talk about their experience (e.g., things that worked and did not worked building their research environments) For example, we could invite Prof. [Christof Koch](https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/christof-koch/) to give a talk.
 
 **_2.2 Create research-oriented working groups (Tom Mrsic-Flogel's idea)_**
 
@@ -571,11 +575,11 @@ SWC members have created the Python club (a journal club style meeting discussin
 
 **_3.1 Create a “data clinic” for SWC to link with GCNU_**
 
-These data clinics could allow anyone from the SWC with a dataset  link with someone from GCNU to discuss how to best model the data. These would be initially informal “starting points” but could develop into something more concrete. The frequency of these clinics could be monthly or termly - depends on how many people would be interested in this. Making it a regular event would make people think about getting advice - I (Ana) would be against an ad-hoc model. 
+These data clinics could allow anyone from the SWC with a dataset  link with someone from GCNU to discuss how to best model the data. These would be initially informal “starting points” but could develop into something more concrete. The frequency of these clinics could be monthly or termly - depends on how many people would be interested in this. Making it a regular event would make people think about getting advice - I (Ana) would be against an ad-hoc model.
 
 **_3.2 GCNU-SWC PhD rotations_**
 
-Encouraging GCNU to do rotations in SWC and vice versa is a good idea but perhaps it should be “encouraged” and not forced. 
+Encouraging GCNU to do rotations in SWC and vice versa is a good idea but perhaps it should be “encouraged” and not forced.
 
 For example, in their first year inference course, GCNU PhD students learn about advanced inference methods. After this course they could spend a few months in the laboratory of (for example) John O'Keefe learning about social behavior in mice and applying switching-state Hidden Markov Models to quantitatively monitor the behavior of freely moving socially interacting mice.
 
@@ -587,7 +591,7 @@ Encourage SWC scientists to attend the GCNU Theoretical Neuroscience journal clu
 
 Does the SWC have center-wide journal clubs? If so, we could encourage GCNU to attend them.
 
-First yr PhDs already have joint JCs during the first term - this doesn’t continue beyond term 1 though - we could suggest extending it? 
+First yr PhDs already have joint JCs during the first term - this doesn’t continue beyond term 1 though - we could suggest extending it?
 
 **Philip 03/11**
 
@@ -595,7 +599,7 @@ First yr PhDs already have joint JCs during the first term - this doesn’t cont
 
 **Potential solution**: Negotiate (more) deals for institute-wide funding for research purposes. If SWC PIs are getting $X on avg from Funder Y each year anyway, this makes more sense than going through the grant system. Because this facilitates good science, Funder Y would benefit too. I imagine this is mostly a question of pursuing difficult/uphill/long-term negotiations that I know nothing about.
 
- 
+
 
 **Issue**: Topic+method-based (experimental) neuroscience is a norm and is taught to trainees by default. A common formula goes: \
 1) Pick a general topic, e.g. escape, reinforcement learning. Pick a task and an array of modern techniques (e.g. large-scale recording). Apply these to a relevant brain region(s).  \
@@ -625,10 +629,10 @@ An alternative is science that is driven by a question/hypothesis/theory. For ex
     -       **IVc**: Design, fund, and/or point out an existing system for digesting published science that goes beyond subscribing to top-tier journals.
 
 
-# 
+#
 
 
-# Fact Finding 
+# Fact Finding
 
 
 ### Santa Fe Institute (Spencer)
@@ -637,12 +641,12 @@ An alternative is science that is driven by a question/hypothesis/theory. For ex
 
 *   What is the scientific org structure of SFI? How does this relate to the administrative structure?
     *   35 → 70 (30 scientists)** **without much redundancy in speciality
-    *   110 affiliated faculty -- not in name only, these people have a strong history of engagement with the culture of the institute. They serve 3 year terms, with the Director having final say but getting the opinion of the other researchers. 
-    *   1600 visits per year in the before times -- colloquia, working groups, workshops. Jen decides on these visitors and the events. 
-    *   Science Steering Committee = People at high level unis. 
+    *   110 affiliated faculty -- not in name only, these people have a strong history of engagement with the culture of the institute. They serve 3 year terms, with the Director having final say but getting the opinion of the other researchers.
+    *   1600 visits per year in the before times -- colloquia, working groups, workshops. Jen decides on these visitors and the events.
+    *   Science Steering Committee = People at high level unis.
     *   The metric for success is communication: focused on the newness of the ideas
     *   Architecture intertwines with culture
-        *   Escape the constraints 
+        *   Escape the constraints
         *   Meet others in open env
         *   Opportunistic collisions
     *   “Science board” -- Less than affiliated, advise president
@@ -789,7 +793,7 @@ Evaluation of work / progress
 
 *   All progress is tracked, and at end of cycle an evaluation shows productivity
 
-Milestones 
+Milestones
 
 
 
@@ -815,8 +819,8 @@ Meeting culture
 # -          Eliminate time sinks (more staff support, no need to teach or write grants, social support (e.g. support with childcare)
 
 
-# -          Management determines large programs (e.g. mechanistic cognitive neuroscience) and identifies problems to avoid diversifying into topics that might not be overlapping. 
+# -          Management determines large programs (e.g. mechanistic cognitive neuroscience) and identifies problems to avoid diversifying into topics that might not be overlapping.
 
 
-# -          Large focus on tool building and standardization 
+# -          Large focus on tool building and standardization
 

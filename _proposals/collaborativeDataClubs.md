@@ -1,22 +1,22 @@
-Proposal: Collaborative Data Clubs
-==================================
+---
+layout: proposal
+title: Collaborative Data Clubs
+authors: Joaquin Rapela
+---
 
-# Author(s):
+Increase internal scientific communication in a welcoming environment.
 
-- Joaquin Rapela
-
-
-# Concept
+### Concept
 
 - Data clubs delivered by collaborators
 
 
-# Purpose
+### Purpose
 
 - Demonstrate the potential of scientic collaborations
 
 
-# Implementation
+### Implementation
 
 - These data talks will be delivered by collaborators. Beside showing their scientific results, collaborators may want to talk about the human side of their collaboration (e.g., how the collaboration started, great and not so great moments in their interaction).
 

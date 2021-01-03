@@ -1,22 +1,18 @@
-Proposal: Weekly Data and/or Non-Data Clubs
-===========================
+---
+layout: proposal
+title: Weekly Data and Non-Data Clubs
+authors: Fred Marbach, Philip Shamash
+---
 
-# Author(s):
-
-- Spencer Wilson
-
-
-# Concept
-
-- Go back to weekly data club, as opposed to bi-monthly
+Go back to weekly data club, as opposed to bi-monthly
 
 
-# Purpose
+### Purpose
 
-- Frequent meetings are crucial for a collaborative atmosphere 
+- Frequent meetings are crucial for a collaborative atmosphere
 
 
-# Implementation
+### Implementation
 
 - Weekly data club over lunch. Make sure the importance to attend is clear to people.
     The brasserie is too small, we should be in the downstairs lecture hall. We should find a way for people to have lunch and attend. Perhaps the brasserie can provide food downstairs (sandwiches or other type of food that can be eaten easily)?
@@ -28,16 +24,16 @@ Proposal: Weekly Data and/or Non-Data Clubs
     * Option 4: 4 presenters, each with 10min + 2min questions
 
 
-# Stakeholders
+### Stakeholders
 
-- People voted for data club every other week - We believe this should not be up to them. We have to impose a structure in the building where people present frequently and attend meetings, planning experiments around these meetings. 
+- People voted for data club every other week - We believe this should not be up to them. We have to impose a structure in the building where people present frequently and attend meetings, planning experiments around these meetings.
 
 
-# Proposal for the proposal:
+### Proposal for the proposal:
 
 - Include PIs in the rota. It would be great to hear more from them.
 
 
-# Comments
+### Comments
 
 - (Spencer) — can we combine this proposal with the nondata club proposal and alternate weeks for these?

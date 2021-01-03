@@ -1,20 +1,16 @@
-Proposal: Science woring groups
-===============================
+---
+layout: proposal
+title: Scientific Working Groups
+authors: Joaquin Rapela
+---
 
-# Author(s):
+Working towards a more agile science
 
-- Joaquin Rapela
-
-
-# Concept
-
-- Create science working groups
-
-# Purpose
+### Purpose
 
 - Create working groups taclking a larger problem by bringing together scientists with different expertise
 
-# Implementation
+### Implementation
 
 We decide to work on a problem (e.g., advanced characterisation of population neural recordings), we agree to use a given dataset (maybe provided by one of the working group members), we collaborate closely in solving this problem and we publish together (with a clear description of contributions).
 
@@ -34,7 +30,7 @@ Biophysically-inspired models describe neural dynamics using detailed neural inf
 
 Tiago Branco has expertise developing biophysically-inspired models. Steve West (SWC/IBL Histology Research Scientist) is developing techniques that could provide us exquisite anatomical information. The GCNU could contribute its world-class inference expertise.
 
-# Stakeholders
+### Stakeholders
 
-- Any SWC/GCNU scientist 
+- Any SWC/GCNU scientist
 
