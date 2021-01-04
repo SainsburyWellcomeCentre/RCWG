@@ -1,5 +1,16 @@
 {% if site.github.private != true and site.github.license %}
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
-{% github_edit_link "Click here to propose changes to this page" %}.
+
+{% if page.title == "index" %}
+<a
+  href="{{ site.github.repository_url }}/edit/{{ site.branch }}/index.md"
+>Propose changes to this page on GitHub</a>
+{% else %}
+<a
+  href="{{ site.github.repository_url }}/edit/{{ site.branch }}/{{ page.relative_path }}"
+>Propose changes to this page on GitHub</a>
+{% endif %}
+
+
 </div>
 {% endif %}

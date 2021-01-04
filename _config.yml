@@ -3,8 +3,10 @@ google_analytics: true
 github:
   private: false
   license: MIT
+  repository_url: https://github.com/SainsburyWellcomeCentre/S-RCWG/
 kramdown:
   parse_block_html: true
+branch: main
 
 excerpt_separator: <!--below excerpt-->
 
@@ -57,6 +59,7 @@ detach              : false
 port                : 4000
 host                : 127.0.0.1
 
+# https://stackoverflow.com/questions/27386169/change-site-url-to-localhost-during-jekyll-local-development/
 # https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/
 baseurl             : "/S-RCWG" # does not include hostname
 url                 : "https://sainsburywellcomecentre.github.io"

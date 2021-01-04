@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: index
 ---
 
 # Science Research Culture Working Group Portal
