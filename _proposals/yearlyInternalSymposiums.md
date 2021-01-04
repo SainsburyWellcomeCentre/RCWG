@@ -1,6 +1,6 @@
 ---
 layout: proposal
-title: Weekly Data and Non-Data Clubs
+title: One-day Yearly Internal Sympossium
 authors: Hernando M. Vergara, Fred Marbach
 ---
 
