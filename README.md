@@ -1,33 +1,39 @@
 # S-RCWG
-Science Research Culture Working Group (S-RCWG)
 
-[homepage](https://sainsburywellcomecentre.github.io/S-RCWG)
+Science Research Culture Working Group
 
-# How to Submit a Proposal
-- Clone this repository on your local machine, make a branch titled `proposal-<short proposal name>` using `git branch <branch name>`
-- Check out the [template](proposal_template.md) and write your proposal in a Markdown document following those guidelines
-- Put your proposal in the `_proposals` folder
-- Don't modify anything else on this branch
-- Submit a pull request on GitHub for this branch
+[Portal](https://sainsburywellcomecentre.github.io/S-RCWG)
 
-# How to Write Meeting Minutes
-- Find the `_minutes` folder on GitHub
-- Add a new file and follow the format of previous meetings
-- Commit this new file
+[Slack](https://swc-neuro.slack.com/archives/C01CK2NTV32)
 
-OR (if you want to be fancy)
+# Contributing
 
-- Clone the repository
-- Make a new Markdown file in the `_minutes` folder
-- Write up the minutes following previous meetings' format
-- `git add <minute file>`, `git commit -m <Your short commit message>` and `git push`
+## Submitting Proposals
 
-# How to Develop the Portal Locally
+- write a draft following the [proposal template](https://github.com/SainsburyWellcomeCentre/S-RCWG/blob/main/proposal_template.md)
+- go to the [_proposals folder](https://github.com/SainsburyWellcomeCentre/S-RCWG/tree/main/_proposals) and click `add file`.
+- paste your draft proposal into the new file
+- click the buttons at the bottom to create a branch and submit a pull request
+	- name your branch in the format `<your name>-<proposal>-<proposal keyword>`
+- submit the pull request so that the group can comment and suggest changes
+- you can edit your proposal by switching to your proposal's branch (on the main GitHub page) and editing the proposal file
 
-- Download [Jekyll](https://jekyllrb.com/docs/installation/) following the steps [here](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll). You'll need a package manager, `ruby`, and `bundler`. Don't forget to run `gem install bundler`.
+## Submitting  Minutes
+
+- take the minutes in markdown format (look at other files in [_minutes folder](https://github.com/SainsburyWellcomeCentre/S-RCWG/tree/main/_minutes) for reference)
+- in the [_minutes folder](https://github.com/SainsburyWellcomeCentre/S-RCWG/tree/main/_minutes), click `add file` and add your minutes
+- name the file the meeting date in the format `<day>-<month>-<year>` using numbers
+- click `commit directly to the main branch` to add the new file
+
+
+# Testing the Portal Locally
+
+- You'll need a package manager, `ruby`, and `bundler`
+- Use your package manager to install [Jekyll](https://jekyllrb.com/docs/installation/) following the steps [here](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll). Don't forget to run `gem install bundler`.
+- The `Gemfile` for the project should be fine, just run `bundle update`
 - Once you've got everything installed, run `bundle exec jekyll serve` to start a development server at `http://127.0.0.1:4000/`, just go there in your browser.
 - If you have issues, try running `bundle update`. If that doesn't work, open an issue or reach out on Slack.
-- Changes made to documents should automagically update in your browser.
+- Changes made to documents should automagically update in your browser, but if you change the `_config.yml` (which you shouldn't) you have to re-run `bundle exec jekyll serve`
 
 ## Helpful Jekyll Links
 

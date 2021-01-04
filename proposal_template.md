@@ -2,6 +2,7 @@
 layout: proposal
 title: A Template for New Proposals
 authors: RCWGers
+permalink: /proposal_template/
 ---
 
 Here is where your one-line summary goes.

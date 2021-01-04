@@ -9,10 +9,12 @@
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
+    <div class=content-container>
     <div class="container-lg px-3 my-5 markdown-body">
 
       {{ content }}
 
+    </div>
     </div>
     {% include footer.html %}
     {% if site.google_analytics %}

@@ -15,7 +15,7 @@ title: Home
   {% endfor %}
 </ul>
 
-## Meeting Minutes
+## Minutes
 
 <ul>
   {% for minute in site.minutes %}
@@ -26,12 +26,14 @@ title: Home
 </ul>
 
 
-## Slack Channel
+## Slack
 
 The S-RCWG Slack channel can be found [here](https://swc-neuro.slack.com/archives/C01CK2NTV32)
 
-## Proposal Template
+## GitHub
 
-Use this template to compose a new proposal as a pull request on [our GitHub]({{site.url}}):
+You can submit proposals and minutes on [our GitHub]({{site.url}})
 
-- <a href="proposal_template.html">A Template for New Proposals</a>
+<br>
+<br>
+
