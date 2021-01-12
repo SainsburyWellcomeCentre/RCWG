@@ -1,3 +1,7 @@
+tmp/checkSpelling.sh
+tmp/proposals.dic
+*.bak
+
 # taken from :
 # https://gist.github.com/bradonomics/cf5984b6799da7fdfafd
 
