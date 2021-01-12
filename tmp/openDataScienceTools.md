@@ -7,19 +7,19 @@ Train SWC/GCNU members in open data-science tools
 
 # Our vision for the use of open data-science tools at the SWC/GCNU
 
-- The code of every laboratory is under version control in the internal SWC Github account, very well written and documented. In this way code can be use freely across the SWC/GCNU,
+- The code of every laboratory is under version control in the internal SWC Github organization, very well written and documented. In this way code can be use freely across the SWC/GCNU,
 
-- Every SWC member has his own Github account with a personal web site and Github projects, linked to the SWC/GCNU people page, where he/she describes his/her research activities and provides related resources (e.g., source code, protocol documentation). Also, researchers could publish their Github projects with their planned, in progress and done tasks.
+- Every SWC/GCNU member has his own Github account with a personal web site and Github projects, linked to the SWC/GCNU people page, where he/she describes his/her research activities and provides related resources (e.g., source code, protocol documentation). Also, researchers could publish their Github projects with their planned, in progress and done tasks.
 
-For this to happen we want that every laboratory at the SWC/GCNU has at least one member certified on the use of open data-science tools. This person will be responsible of putting all relevant code from his/her laboratory on the internal SWC Github account and of helping his lab colleagues to use open data-science tools.
+For this to happen we want that every laboratory at the SWC/GCNU has at least one member certified on the use of open data-science tools. This person will be responsible of putting all relevant code from his/her laboratory on the internal SWC Github organization and of helping his lab colleagues to use open data-science tools.
 
 # Why should we care about open data-science training?
 
-- The biomedical science is facing a replication crisis ([Button et al., 2013](https://www.nature.com/articles/nrn3475). A large proportion (>80%) of recent biomedical findings cannot be replicated ([Open Science Collaboration, 2015](https://science.sciencemag.org/content/349/6251/aac4716).. Thus, it is essential that we disseminate our findings with data (whenever possible), documentation and code to facilitate their replication.
+- The biomedical science is facing a replication crisis ([Button et al., 2013](https://www.nature.com/articles/nrn3475)). A large proportion (>80%) of recent biomedical findings cannot be replicated ([Open Science Collaboration, 2015](https://science.sciencemag.org/content/349/6251/aac4716)). Thus, it is essential that we disseminate our findings with data (whenever possible), documentation and code to facilitate their replication.
 
 - SWC/GCNU members will benefit their career by learning open data-science tools (e.g., it would be helpful for their CVs to demonstrate that they know how to use these tools),
 
-- SWC/GCNU members can use these tools to make available research they have built internally to the SWC or externally to the rest of the world. In this way SWC/GCNU research is better reused and people have another mean of demonstrating their productivity,
+- SWC/GCNU members can use these tools to make available research they have built internally to the SWC/GCNU or externally to the rest of the world. In this way SWC/GCNU research is better reused and people have another mean of demonstrating their productivity,
 
 - The PyClub and PyStarters are excellent environments to start collaborations between experimental and computational neuroscientists,
 
@@ -49,10 +49,6 @@ For this to happen we want that every laboratory at the SWC/GCNU has at least on
 
 To make the SWC/GCNU an institution where open-science is the norm we need support from the SWC/GCNU management. We ask this management:
 
-- To ask every lab to certify in the next PyStarters session at least one of its members on the use of open data-science tools,
+- To request every lab to certify in the next PyStarters session at least one of its members on the use of open data-science tools,
 
-### References
-
-. Button, K. S., Ioannidis, J. P., Mokrysz, C., Nosek, B. A., Flint, J., Robinson, E. S., & Munafò, M. R. (2013). Power failure: why small sample size undermines the reliability of neuroscience. Nature reviews neuroscience, 14(5), 365-376 ([link](https://www.nature.com/articles/nrn3475)).
-
-. Open Science Collaboration. (2015). Estimating the reproducibility of psychological science. Science, 349(6251) ([link](https://science.sciencemag.org/content/349/6251/aac4716)).
+- To ask Klara Olofsdotter Otis to work with us on integrating PyStarters into the education of incoming PhD students.
