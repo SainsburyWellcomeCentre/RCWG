@@ -1,17 +1,14 @@
-Train SWC/GCNU members in open data-science tools
-=================================================
+---
+layout: proposal
+title: Training in open-science tools
+authors: Joaquin Rapela, Stephen Lenzi, Adam Tyson and Spencer Wilson
+---
 
-# Authors
+Provide basic training to SWC/GCNU members on the use of open-science tools
 
-- Joaquin Rapela, Stephen Lenzi, Adam Tyson and Spencer Wilson
+# Purpose
 
-# Our vision for the use of open data-science tools at the SWC/GCNU
-
-- The code of every laboratory is under version control in the internal SWC Github organization, very well written and documented. In this way code can be use freely across the SWC/GCNU,
-
-- Every SWC/GCNU member has his own Github account with a personal web site and Github projects, linked to the SWC/GCNU people page, where he/she describes his/her research activities and provides related resources (e.g., source code, protocol documentation). Also, researchers could publish their Github projects with their planned, in progress and done tasks.
-
-For this to happen we want that every laboratory at the SWC/GCNU has at least one member certified on the use of open data-science tools. This person will be responsible of putting all relevant code from his/her laboratory on the internal SWC Github organization and of helping his lab colleagues to use open data-science tools.
+- Allow SWC/GCNU scientist to produced science that can be replicated
 
 # Why should we care about open data-science training?
 
@@ -25,30 +22,37 @@ For this to happen we want that every laboratory at the SWC/GCNU has at least on
 
 - The SWC/GCNU promotes an open-science culture.
 
-# What we propose
+# Our vision for the use of open data-science tools at the SWC/GCNU
 
-- Build on amazing previous work by previous (Charly Rosseau and Maxime Rio) and current (Adam Tyson and Steve Lenzi) SWC members to exapnd open-science related activities. We will create an **Open Data Science** organization to centralize activities at the SWC/GCNU related to open science. 
+- The code of every laboratory is under version control in the internal SWC Github organization, very well written and documented. In this way code can be used and reused freely across the SWC/GCNU,
+
+- Every SWC/GCNU member has his own Github account with a personal web site and Github projects, linked to the SWC/GCNU people page, where he/she describes his/her research activities and provides related resources (e.g., source code, protocol documentation). Also, researchers could publish their Github projects with their planned, in progress and done tasks.
+
+For this to happen we want that every laboratory at the SWC/GCNU has at least one member certified on the use of open data-science tools. This person will be responsible of putting all relevant code from his/her laboratory on the internal SWC Github organization and of helping his lab colleagues to use open data-science tools.
+
+### Implementation
+
+- Build on previous work by previous (Charly Rosseau and Maxime Rio) and current (Adam Tyson and Steve Lenzi) SWC members to exapnd open-science related activities at the SWC/GCNU. We will create an **Open Science** organization to centralize activities at the SWC/GCNU related to open science (e.g., teaching Git/Github, Python and Anaconda). 
 
 - Improve the current ([PyClub/PyStarters web site](https://sainsburywellcomecentre.github.io/pystarters/) providing:
 
     - Contact information of the steering committee and contributors to the organization,
 
-    - Technical information about open data-science tools (e.g., slides from previous PyClubs, PyStarters, links to useful resources),
+    - Technical information about open data-science tools (e.g., slides from previous PyClubs, PyStarters, links to other useful resources),
 
     - Information about events (e.g., PyClubs and PyStarters, software carpentry courses at UCL).
 
 - Organize PyClub meetings on a monthly basis,
 
-- Organize PyStarter courses on a yearly basis. This course will certify on the use of open-science tools to interested students and to designated SWC/GCNU open-science representatives,
+- Organize PyStarter courses on a yearly basis,
 
-- Setup a mentoring scheme where people with no experience in open data-science tools  are paired with people with substantial experience on it.
+- Setup a mentoring scheme where people with no experience in open data-science tools are paired with people with substantial experience on it.
 
 - Organize advanced courses on, for example, data acquisition, image analysis, time-series analysis and statistical neuroscience.
 
-# Support from the SWC/GCNU management
+To produce open science it is important that we know how to use open science tools like Git, Github, Python and Anaconda.
 
-To make the SWC/GCNU an institution where open-science is the norm we need support from the SWC/GCNU management. We ask this management:
+### Stakeholders
 
-- To request every lab to certify in the next PyStarters session at least one of its members on the use of open data-science tools,
+- Any SWC/GCNU member producing scientif results.
 
-- To ask Klara Olofsdotter Otis to work with us on integrating PyStarters into the education of incoming PhD students.
