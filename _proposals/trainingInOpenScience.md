@@ -50,12 +50,6 @@ To produce open science it is important that we know how to use open science too
 
 - Organize advanced courses on, for example, data acquisition, image analysis, time-series analysis and statistical neuroscience.
 
-### Support from the SWC/GCNU management
-
-To make the SWC/GCNU an institution where open-science is the norm we need support from the SWC/GCNU management. We ask this management:
-
-- To request every lab to request at least one of its members to attend the two-day PyStarter introductory course to open data tools.
-
 ### Stakeholders
 
 - Any SWC/GCNU member producing scientif results.
