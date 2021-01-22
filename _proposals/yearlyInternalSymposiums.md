@@ -1,6 +1,6 @@
 ---
 layout: proposal
-title: One-day Yearly Internal Sympossium
+title: One-day Yearly Internal Symposium
 authors: Hernando M. Vergara, Fred Marbach
 ---
 
