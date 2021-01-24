@@ -4,36 +4,36 @@ title: Weekly Data and Non-Data Clubs
 authors: Fred Marbach, Philip Shamash
 ---
 
-Go back to weekly data club, as opposed to bi-monthly
-
+Go back to weekly data club, as opposed to every other week
 
 ### Purpose
 
-- Frequent meetings are crucial for a collaborative atmosphere
+- Frequent meetings are crucial for a collaborative atmosphere. Researchers voted for data club every other week - we believe this decision should not be up to them. We have to impose a structure in the building where people present frequently and attend meetings, planning experiments around these meetings.
 
 
 ### Implementation
 
-- Weekly data club over lunch. Make sure the importance to attend is clear to people.
-    The brasserie is too small, we should be in the downstairs lecture hall. We should find a way for people to have lunch and attend. Perhaps the brasserie can provide food downstairs (sandwiches or other type of food that can be eaten easily)?
-    Presentation format:
+- Weekly SWC labmeeting over lunch 
+- PIs should make sure the importance to attend is clear to people
+- The brasserie is too small, we should be in the downstairs lecture hall. This means we should find a way for people to have lunch and attend - perhaps the brasserie can provide food downstairs (sandwiches or other type of food that can be eaten easily)?
+- Presentation format, alternating weekly:
+    * 2 presenters; Research talks; 20min + 5min each
+    * 2 presenters; Conceptual talks; 20min + 5min each
+- Opt-in if you wish collaborators to be notified
+- Include PIs in the rota
 
-    * Option 1: 2 presenters, as it used to be. Each presenter has a 20min slot + 5min questions.
-        Option 2: 3 presenters, each with 15min + 5min questions
-    * Option 3: 3 presenters; two give a short update of 10min + 2min questions, one (who has been at swc longer) gives a 20min + 5min talk
-    * Option 4: 4 presenters, each with 10min + 2min questions
+### Open questions
 
+- Can we do it in the downstairs lecture hall?
+- How is lunch provided?
+- Should we only have one label, SWC labmeeting, but put emphasis on not having to present data?
+- Should these talks always be available on zoom?
 
 ### Stakeholders
 
-- People voted for data club every other week - We believe this should not be up to them. We have to impose a structure in the building where people present frequently and attend meetings, planning experiments around these meetings.
-
-
-### Proposal for the proposal:
-
-- Include PIs in the rota. It would be great to hear more from them.
+- Everyone at SWC
 
 
 ### Comments
 
-- (Spencer) — can we combine this proposal with the nondata club proposal and alternate weeks for these?
+
