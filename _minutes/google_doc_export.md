@@ -19,7 +19,7 @@ Notes: Svenja
     2. Data Club
     3. Specialist Slack Channels
 3. Brainstorm around these ideas
-4. Proiritize concrete proposals + design proposal format
+4. Prioritise concrete proposals + design proposal format
     4. E.g. issue addressed, solution proposed, stakeholders
 
 **Proposals Ideas in Advance**
