@@ -23,7 +23,6 @@ Additional Slack channels for discussion and Q&A about technical topics.
 - Add those channels with the correct Slack naming conventions (do we need a new category e.g. `#python-expertise`?)
 - Announce new and consolidated channels to `#general`
 
-
 # Stakeholders
 
 - If channels are consolidated, those channels need to reach consensus about the change
