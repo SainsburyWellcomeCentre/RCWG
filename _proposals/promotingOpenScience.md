@@ -54,3 +54,10 @@ To produce open science it is important that we know how to use open science too
 
 - Any SWC/GCNU member producing scientific results.
 
+### Next steps
+
+- approve proposal
+- share proposal with SWCU/GCNU members
+- SWC/GCNU-wide meeting to discuss proposal
+
+
