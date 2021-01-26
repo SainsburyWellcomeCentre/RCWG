@@ -6,6 +6,8 @@ authors: Joaquin Rapela
 
 Getting big ideas off the ground
 
+<!--below excerpt-->
+
 ### Purpose
 
 - To structure and promote collaborative projects at SWC/GCNU
