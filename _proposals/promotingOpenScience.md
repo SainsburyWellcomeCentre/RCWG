@@ -4,7 +4,7 @@ title: Promoting an open-science research culture at the SWC/GCNU
 authors: Joaquin Rapela, Stephen Lenzi, Adam Tyson and Spencer Wilson
 ---
 
-Make the SWC/GCNU a role-model institution on the practice of open science.
+Make open-science flourish at the SWC/GCNU.
 
 ### Purpose
 
