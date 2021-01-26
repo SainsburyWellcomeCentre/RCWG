@@ -6,7 +6,7 @@ Science Research Culture Working Group
 
 [Slack](https://swc-neuro.slack.com/archives/C01CK2NTV32)
 
-# Contributing
+# Contributing via github.com
 
 ## Submitting Proposals
 
