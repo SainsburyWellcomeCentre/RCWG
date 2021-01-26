@@ -1,5 +1,5 @@
-tmp/checkSpelling.sh
-tmp/proposals.dic
+_proposals/checkSpelling.sh
+_proposals/proposals.dic
 *.bak
 
 # taken from :
