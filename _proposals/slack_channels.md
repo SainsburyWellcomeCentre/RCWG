@@ -49,7 +49,7 @@ Slack channels for discussion and Q&A about technical topics, analysis, and conc
 **forum-molecular-bio** help with cell-type markers, labeling, sequencing/transcriptomics, etc
 - has anyone used RNA scope for identifying cell types of interest and can help?
 
-**forum-machine-learning-NNs** Machine learning and neural networks questions
+**forum-ML-and-neural-networks** Machine learning and neural networks questions
 - How do I put dropout in my PyTorch network?
 
 **forum-misc** Science questions that don't fit into the other categories.
