@@ -14,10 +14,10 @@ Slack channels for discussion and Q&A about technical topics, analysis, and conc
 
 # To-Do
 
-- Coordinate with emma to create the channels on the list below (in a folder, ideally)
-- Coordinate with Ana and Barry to create a tunnel from the Gatsby slack to the SWC slack
+- Coordinate with emma to create the channels on the list below
+- Coordinate with Ana/Barry/John to create a tunnel from the Gatsby slack to the SWC slack on these channels
 - Announce these channels at the Town Hall 29.1.21 3pm
-- Week of 2.2.21: create channels, add all researchers, send an email and a slack message on general (including promoting existing channels)
+- Week of 2.2.21: add all researchers, send an email and a slack message on general (including promoting existing channels)
 - Week of 9.2.21: organize questions to plant on each channel to serve as an example of how to use the forums
 - Week of 24.2.21: reassess, and engage particular experts if it's not happening organically
 
