@@ -23,7 +23,7 @@ Slack channels for discussion and Q&A about technical topics, analysis, and conc
 
 ## Current list of channels to add
 **forum-analysis** Data analysis, statistics, and modeling questions 
-- how should I tag outliers in this dataset?
+- what is the best statistical model I could use to characterize my Neuropixel neuronal population recordings?
 
 **forum-programming** questions about programming in any language 
 - should I use classes or functions for my Python analysis?
