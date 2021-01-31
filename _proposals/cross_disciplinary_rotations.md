@@ -4,7 +4,7 @@ title: Cross-disciplinary Rotations
 authors: Ana Saraiva Ayash, Joaquin Rapela
 ---
 
-Promote collaboration between Gatbsy and SWC through the PhD program.
+Promote collaboration between GCNU and SWC through the PhD program.
 
 <!--below excerpt-->
 
