@@ -5,6 +5,8 @@ title: index
 
 # Science Research Culture Working Group Portal
 
+We are a group of SWC and GCNU people thinking and acting to improve our research environment and practices.
+
 ## Proposals
 
 <ul>
