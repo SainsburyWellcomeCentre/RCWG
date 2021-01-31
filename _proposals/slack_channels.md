@@ -14,7 +14,7 @@ Slack channels for discussion and Q&A about technical topics, analysis, and conc
 
 # To-Do
 
-- Coordinate with emma to create the channels on the list below
+- Coordinate with Emma to create the channels on the list below
 - Coordinate with Ana/Barry/John to create a tunnel from the Gatsby slack to the SWC slack on these channels
 - Announce these channels at the Town Hall 29.1.21 3pm
 - Week of 2.2.21: add all researchers, send an email and a slack message on general (including promoting existing channels)
@@ -23,7 +23,7 @@ Slack channels for discussion and Q&A about technical topics, analysis, and conc
 
 ## Current list of channels to add
 **forum-analysis** Data analysis, statistics, and modeling questions 
-- what is the best statistical model I could use to characterize my Neuropixel neuronal population recordings?
+- what is the best statistical model I could use to characterize visual selectivity in my Neuropixel recordings?
 
 **forum-programming** questions about programming in any language 
 - should I use classes or functions for my Python analysis?
