@@ -6,6 +6,8 @@ authors: Joaquin Rapela, Hernando M. Vergara
 
 If you don't know, ask someone!
 
+<!--end summary-->
+
 ### Concept
 
 - Talks by external leaders on collaborative research

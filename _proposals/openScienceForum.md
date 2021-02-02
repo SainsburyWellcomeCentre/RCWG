@@ -6,7 +6,7 @@ authors: Spencer Wilson
 
 Towards the development of a workflow for doing radically open science
 
-<!--below excerpt-->
+<!--end summary-->
 
 ### Purpose
 

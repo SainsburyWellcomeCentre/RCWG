@@ -6,7 +6,7 @@ authors: Ana Saraiva Ayash, Joaquin Rapela
 
 Promote collaboration between GCNU and SWC through the PhD program.
 
-<!--below excerpt-->
+<!--end summary-->
 
 ### Purpose
 

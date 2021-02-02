@@ -6,6 +6,8 @@ authors: Fred Marbach, Philip Shamash
 
 Go back to weekly data club, as opposed to every other week
 
+<!--end summary-->
+
 ### Purpose
 
 - Frequent meetings are crucial for a collaborative atmosphere. Researchers voted for data club every other week - we believe this decision should not be up to them. We have to impose a structure in the building where people present frequently and attend meetings, planning experiments around these meetings.

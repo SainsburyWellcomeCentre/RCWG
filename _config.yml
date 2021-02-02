@@ -8,14 +8,14 @@ kramdown:
   parse_block_html: true
 branch: main
 
-excerpt_separator: <!--below excerpt-->
+excerpt_separator: <!--end summary-->
 
-source              : .
-destination         : ./_site
-plugins_dir         : _plugins # takes an array of strings and loads plugins in that order
-layouts_dir         : _layouts
-data_dir            : _data
-includes_dir        : _includes
+source: .
+destination: ./_site
+plugins_dir: _plugins # takes an array of strings and loads plugins in that order
+layouts_dir: _layouts
+data_dir: _data
+includes_dir: _includes
 sass:
   sass_dir: _sass
 collections:
@@ -29,38 +29,46 @@ collections:
     output: true
 
 # Handling Reading
-safe                : false
-include             : [".htaccess"]
-exclude             : ["Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/"]
-keep_files          : [".git", ".svn"]
-encoding            : "utf-8"
-markdown_ext        : "markdown,mkdown,mkdn,mkd,md"
-strict_front_matter : false
+safe: false
+include: [".htaccess"]
+exclude:
+  [
+    "Gemfile",
+    "Gemfile.lock",
+    "node_modules",
+    "vendor/bundle/",
+    "vendor/cache/",
+    "vendor/gems/",
+    "vendor/ruby/",
+  ]
+keep_files: [".git", ".svn"]
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+strict_front_matter: false
 
 # Filtering Content
-show_drafts         : null
-limit_posts         : 0
-future              : false
-unpublished         : false
+show_drafts: false
+limit_posts: 0
+future: false
+unpublished: false
 
 # Plugins
-whitelist           : []
-plugins             : []
+whitelist: []
+plugins: []
 
 # Conversion
-markdown            : kramdown
-highlighter         : rouge
-lsi                 : false
-excerpt_separator   : "\n\n"
-incremental         : false
+markdown: kramdown
+highlighter: rouge
+lsi: false
+incremental: false
 
 # Serving
-detach              : false
-port                : 4000
-host                : 127.0.0.1
+detach: false
+port: 4000
+host: 127.0.0.1
 
 # https://stackoverflow.com/questions/27386169/change-site-url-to-localhost-during-jekyll-local-development/
 # https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/
-baseurl             : "/S-RCWG" # does not include hostname
-url                 : "https://sainsburywellcomecentre.github.io"
-show_dir_listing    : false
+baseurl: "/S-RCWG" # does not include hostname
+url: "https://sainsburywellcomecentre.github.io"
+show_dir_listing: false

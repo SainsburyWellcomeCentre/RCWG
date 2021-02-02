@@ -7,7 +7,9 @@ permalink: /proposal_template/
 
 Here is where your one-line summary goes.
 
-<!--below excerpt-->
+You must add the comment line below (in the raw file) for the summary to work properly.
+
+<!--end summary-->
 
 # Purpose
 

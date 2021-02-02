@@ -6,6 +6,8 @@ authors: Joaquin Rapela, Stephen Lenzi, Adam Tyson and Spencer Wilson
 
 Make open-science flourish at the SWC/GCNU.
 
+<!--end summary-->
+
 ### Purpose
 
 - Facilitate the practice of open science at the  SWC/GCNU.

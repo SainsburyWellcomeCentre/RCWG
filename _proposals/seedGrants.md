@@ -6,7 +6,7 @@ authors: Joaquin Rapela
 
 Getting big ideas off the ground
 
-<!--below excerpt-->
+<!--end summary-->
 
 ### Purpose
 

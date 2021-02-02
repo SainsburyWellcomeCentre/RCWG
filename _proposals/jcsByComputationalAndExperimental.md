@@ -6,7 +6,7 @@ authors: Joaquin Rapela
 
 Journal clubs jointly delivered by a mixture of computational and experimental scientists
 
-<!--below excerpt-->
+<!--end summary-->
 
 ### Purpose
 

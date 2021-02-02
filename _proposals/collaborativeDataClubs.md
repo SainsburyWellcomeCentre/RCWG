@@ -6,6 +6,8 @@ authors: Joaquin Rapela
 
 Increase internal scientific communication in a welcoming environment.
 
+<!--end summary-->
+
 ### Concept
 
 - Data clubs delivered by collaborators

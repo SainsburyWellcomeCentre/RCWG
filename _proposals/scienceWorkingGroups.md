@@ -6,6 +6,8 @@ authors: Joaquin Rapela
 
 Working towards a more agile science
 
+<!--end summary-->
+
 ### Purpose
 
 - Create working groups taclking a larger problem by bringing together scientists with different expertise

@@ -6,7 +6,7 @@ authors: Philip Shamash, Tom Mrsic-Flogel
 
 Slack channels for discussion and Q&A about technical topics, analysis, and concepts.
 
-<!--below excerpt-->
+<!--end summary-->
 
 # Aim
 

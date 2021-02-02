@@ -6,6 +6,7 @@ authors: Hernando M. Vergara, Fred Marbach
 
 One-day internal symposium to hear about ongoing research
 
+<!--end summary-->
 
 ### Purpose
 
