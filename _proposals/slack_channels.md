@@ -2,6 +2,7 @@
 layout: proposal
 title: Expertise Slack Channels
 authors: Philip Shamash, Tom Mrsic-Flogel
+category: completed
 ---
 
 Slack channels for discussion and Q&A about technical topics, analysis, and concepts.

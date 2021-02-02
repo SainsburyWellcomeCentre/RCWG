@@ -2,6 +2,7 @@
 layout: proposal
 title: External Speakers on Scientific Culture
 authors: Joaquin Rapela, Hernando M. Vergara
+category: suggested
 ---
 
 If you don't know, ask someone!

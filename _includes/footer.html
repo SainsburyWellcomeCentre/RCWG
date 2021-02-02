@@ -1,6 +1,8 @@
 {% if site.github.private != true and site.github.license %}
-<div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+<div class="footer">
 
+<h3><a href="{{ site.url | append: site.baseurl }}/">Home</a></h3>
+ 
 {% if page.title == "index" %}
 <a
   href="{{ site.github.repository_url }}/edit/{{ site.branch }}/index.md"
@@ -10,7 +12,6 @@
   href="{{ site.github.repository_url }}/edit/{{ site.branch }}/{{ page.relative_path }}"
 >Propose changes to this page on GitHub</a>
 {% endif %}
-
 
 </div>
 {% endif %}

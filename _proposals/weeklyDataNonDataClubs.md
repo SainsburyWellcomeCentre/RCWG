@@ -2,6 +2,7 @@
 layout: proposal
 title: Weekly Data and Non-Data Clubs
 authors: Fred Marbach, Philip Shamash
+category: active
 ---
 
 Go back to weekly data club, as opposed to every other week

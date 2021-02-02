@@ -2,6 +2,7 @@
 layout: proposal
 title: Scientific Seed Grants
 authors: Joaquin Rapela
+category: suggested
 ---
 
 Getting big ideas off the ground

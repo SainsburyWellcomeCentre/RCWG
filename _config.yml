@@ -28,6 +28,11 @@ collections:
   posts:
     output: true
 
+proposal_categories:
+  - active
+  - completed
+  - suggested
+
 # Handling Reading
 safe: false
 include: [".htaccess"]

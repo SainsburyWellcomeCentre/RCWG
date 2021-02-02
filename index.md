@@ -9,21 +9,52 @@ title: RCWG
 
 ## Proposals
 
+### Active 
+
 <ul>
-  {% for proposal in site.proposals %}
-    <li>
-      <a href="{{ proposal.url | relative_url  }}">{{ proposal.title }}</a> ({{ proposal.authors }}) <em>{{ proposal.excerpt }} </em>
-    </li>
-  {% endfor %}
+{% for proposal in site.proposals %}
+{% if proposal.category == "active" %}
+      <li>
+        <a href="{{ proposal.url | relative_url  }}">{{ proposal.title }}</a> ({{ proposal.authors }})
+        <em>{{ proposal.excerpt }} </em>
+      </li>
+{% endif %}
+{% endfor %}
+</ul>
+
+### Completed
+
+<ul>
+{% for proposal in site.proposals %}
+{% if proposal.category == "completed" %}
+      <li>
+        <a href="{{ proposal.url | relative_url  }}">{{ proposal.title }}</a> ({{ proposal.authors }})
+        <em>{{ proposal.excerpt }} </em>
+      </li>
+{% endif %}
+{% endfor %}
+</ul>
+
+### Suggested
+
+<ul>
+{% for proposal in site.proposals %}
+{% if proposal.category == "suggested" %}
+      <li>
+        <a href="{{ proposal.url | relative_url  }}">{{ proposal.title }}</a> ({{ proposal.authors }})
+        <em>{{ proposal.excerpt }} </em>
+      </li>
+{% endif %}
+{% endfor %}
 </ul>
 
 ## Minutes
 
 <ul>
   {% for minute in site.minutes %}
-    <li>
-      <a href="{{ minute.url | relative_url  }}">{{ minute.title }}</a>
-    </li>
+  <li>
+    <a href="{{ minute.url | relative_url  }}">{{ minute.title }}</a>
+  </li>
   {% endfor %}
 </ul>
 
@@ -38,4 +69,3 @@ You can submit proposals and minutes on [our GitHub](https://github.com/Sainsbur
 
 <br>
 <br>
-

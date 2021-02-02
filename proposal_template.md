@@ -1,8 +1,9 @@
 ---
 layout: proposal
 title: A Template for New Proposals
-authors: RCWGers
+authors: RCWGer
 permalink: /proposal_template/
+category: suggested
 ---
 
 Here is where your one-line summary goes.
@@ -10,6 +11,8 @@ Here is where your one-line summary goes.
 You must add the comment line below (in the raw file) for the summary to work properly.
 
 <!--end summary-->
+
+Don't forget to change the category if this is a `suggested` proposal! 
 
 # Purpose
 
@@ -32,3 +35,4 @@ You must add the comment line below (in the raw file) for the summary to work pr
 # Unknowns
 
 - What it says on the tin-- what is important to know for this proposal that is currently unknown?
+- 
