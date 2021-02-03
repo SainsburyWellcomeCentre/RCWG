@@ -2,6 +2,7 @@
 layout: proposal
 title: Collaborative Data Clubs
 authors: Joaquin Rapela
+subgroup: research
 category: active
 ---
 

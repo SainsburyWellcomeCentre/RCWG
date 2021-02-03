@@ -2,6 +2,7 @@
 layout: proposal
 title: Promoting an open-science research culture at the SWC/GCNU
 authors: Joaquin Rapela, Stephen Lenzi, Adam Tyson and Spencer Wilson
+subgroup: research
 category: active
 ---
 

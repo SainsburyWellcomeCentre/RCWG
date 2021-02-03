@@ -2,6 +2,7 @@
 layout: proposal
 title: Journal Clubs Jointly Delivered by Experimental and Computational Scientists
 authors: Joaquin Rapela
+subgroup: research
 category: active
 ---
 

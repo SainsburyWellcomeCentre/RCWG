@@ -2,6 +2,7 @@
 layout: proposal
 title: Scientific Working Groups
 authors: Joaquin Rapela
+subgroup: research
 category: suggested
 ---
 

@@ -2,6 +2,7 @@
 layout: proposal
 title: One-day Yearly Internal Symposium
 authors: Hernando M. Vergara, Fred Marbach
+subgroup: research
 category: suggested
 ---
 

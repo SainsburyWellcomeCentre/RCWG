@@ -2,6 +2,7 @@
 layout: proposal
 title: Expertise Slack Channels
 authors: Philip Shamash, Tom Mrsic-Flogel
+subgroup: research
 category: completed
 ---
 

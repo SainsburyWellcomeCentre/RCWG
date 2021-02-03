@@ -2,6 +2,7 @@
 layout: proposal
 title: Platform for Open Science
 authors: Spencer Wilson
+subgroup: research
 category: suggested
 ---
 

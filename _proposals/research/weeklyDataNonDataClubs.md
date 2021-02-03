@@ -2,6 +2,7 @@
 layout: proposal
 title: Weekly Data and Non-Data Clubs
 authors: Fred Marbach, Philip Shamash
+subgroup: research
 category: active
 ---
 

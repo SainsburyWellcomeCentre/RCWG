@@ -2,6 +2,7 @@
 layout: proposal
 title: Scientific Seed Grants
 authors: Joaquin Rapela
+subgroup: research
 category: suggested
 ---
 

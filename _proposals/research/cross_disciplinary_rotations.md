@@ -2,6 +2,7 @@
 layout: proposal
 title: Cross-disciplinary Rotations
 authors: Ana Saraiva Ayash, Joaquin Rapela
+subgroup: research
 category: active
 ---
 
