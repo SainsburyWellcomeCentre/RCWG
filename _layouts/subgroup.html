@@ -6,8 +6,9 @@ layout: default
 
 <h2>Active</h2> 
 
+{% assign sorted_proposals = site.proposals | sort: 'date' | reverse %}
 <ul>
-{% for proposal in site.proposals %}
+{% for proposal in sorted_proposals %}
 {% if proposal.subgroup == page.subgroup %}
 {% if proposal.category == "active" %}
   <li>
@@ -22,7 +23,7 @@ layout: default
 <h2>Completed</h2>
 
 <ul>
-{% for proposal in site.proposals %}
+{% for proposal in sorted_proposals %}
 {% if proposal.subgroup == page.subgroup %}
 {% if proposal.category == "completed" %}
       <li>
@@ -37,7 +38,7 @@ layout: default
 <h2>Suggested</h2>
 
 <ul>
-{% for proposal in site.proposals %}
+{% for proposal in sorted_proposals %}
 {% if proposal.subgroup == page.subgroup %}
 {% if proposal.category == "suggested" %}
       <li>
@@ -51,8 +52,9 @@ layout: default
 
 <h2>Minutes</h2>
 
+{% assign sorted_minutes = site.minutes | sort: 'date' | reverse %}
 <ul>
-  {% for minute in site.minutes %}
+  {% for minute in sorted_minutes %}
   {% if minute.subgroup == page.subgroup %}
   <li>
     <a href="{{ minute.url | relative_url  }}">{{ minute.title }}</a>
