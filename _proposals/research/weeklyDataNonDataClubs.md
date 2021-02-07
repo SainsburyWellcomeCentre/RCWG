@@ -4,6 +4,7 @@ title: Weekly Data and Non-Data Clubs
 authors: Fred Marbach, Philip Shamash
 subgroup: research
 category: active
+date: 2021-01-06 23:03:00
 ---
 
 Go back to weekly data club, as opposed to every other week

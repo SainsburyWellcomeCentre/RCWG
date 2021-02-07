@@ -4,6 +4,7 @@ title: Collaborative Data Clubs
 authors: Joaquin Rapela
 subgroup: research
 category: active
+date: 2021-01-07 21:54:00
 ---
 
 Increase internal scientific communication in a welcoming environment.

@@ -4,6 +4,7 @@ title: Journal Clubs Jointly Delivered by Experimental and Computational Scienti
 authors: Joaquin Rapela
 subgroup: research
 category: active
+date: 2021-01-07 21:56:00
 ---
 
 Journal clubs jointly delivered by a mixture of computational and experimental scientists

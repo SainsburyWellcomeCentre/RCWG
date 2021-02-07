@@ -4,6 +4,7 @@ title: External Speakers on Scientific Culture
 authors: Joaquin Rapela, Hernando M. Vergara
 subgroup: research
 category: suggested
+date: 2021-01-07 22:02:00
 ---
 
 If you don't know, ask someone!

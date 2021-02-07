@@ -4,6 +4,7 @@ title: Expertise Slack Channels
 authors: Philip Shamash, Tom Mrsic-Flogel
 subgroup: research
 category: completed
+date: 2021-01-07 22:01:00
 ---
 
 Slack channels for discussion and Q&A about technical topics, analysis, and concepts.

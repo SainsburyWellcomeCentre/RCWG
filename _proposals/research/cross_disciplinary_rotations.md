@@ -4,6 +4,7 @@ title: Cross-disciplinary Rotations
 authors: Ana Saraiva Ayash, Joaquin Rapela
 subgroup: research
 category: active
+date: 2021-01-07 21:55:00
 ---
 
 Promote collaboration between GCNU and SWC through the PhD program.

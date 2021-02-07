@@ -4,6 +4,7 @@ title: One-day Yearly Internal Symposium
 authors: Hernando M. Vergara, Fred Marbach
 subgroup: research
 category: suggested
+date: 2021-01-07 22:04:00
 ---
 
 One-day internal symposium to hear about ongoing research
