@@ -1,26 +1,26 @@
 ---
 layout: proposal
-title: Sample Proposal
-authors: Sample Author
+title: Buggy Proposal
+authors: Buggy Author
 subgroup: community
 category: active
 ---
 
-Sample summary
+Buggy summary
 
 <!--end summary-->
 
 ### Concept
 
-- Sample concept
+- Buggy concept
 
 
 ### Purpose
 
-- Sample purpose
+- Buggy purpose
 
 
 ### Implementation
 
-- Sample implementation
+- Buggy implementation
 
