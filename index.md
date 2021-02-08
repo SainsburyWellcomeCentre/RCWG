@@ -22,11 +22,11 @@ title: RCWG
 {% endfor %}
 </ul>
 
-### Completed
+### Suggested
 
 <ul>
 {% for proposal in site.proposals %}
-{% if proposal.category == "completed" %}
+{% if proposal.category == "suggested" %}
       <li>
         <a href="{{ proposal.url | relative_url  }}">{{ proposal.title }}</a> ({{ proposal.authors }})
         <em>{{ proposal.excerpt }} </em>
@@ -35,11 +35,11 @@ title: RCWG
 {% endfor %}
 </ul>
 
-### Suggested
+### Completed
 
 <ul>
 {% for proposal in site.proposals %}
-{% if proposal.category == "suggested" %}
+{% if proposal.category == "completed" %}
       <li>
         <a href="{{ proposal.url | relative_url  }}">{{ proposal.title }}</a> ({{ proposal.authors }})
         <em>{{ proposal.excerpt }} </em>
