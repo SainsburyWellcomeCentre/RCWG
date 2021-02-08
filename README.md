@@ -1,4 +1,4 @@
-# SRCWG
+# RCWG
 
 Research Culture Working Group
 
