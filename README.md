@@ -1,12 +1,12 @@
-# S-RCWG
+# RCWG
 
-Science Research Culture Working Group
+Research Culture Working Group
 
-[Portal](https://sainsburywellcomecentre.github.io/S-RCWG)
+[Portal](https://sainsburywellcomecentre.github.io/RCWG)
 
 [Slack](https://swc-neuro.slack.com/archives/C01CK2NTV32)
 
-# Contributing via github.com
+# Contributing via GitHub
 
 ## Submitting Proposals
 
@@ -26,8 +26,9 @@ Science Research Culture Working Group
 - click `commit directly to the main branch` to add the new file
 
 
-# Testing the Portal Locally
+# Contributing as a Developer 
 
+## Testing the Portal Locally
 - You'll need a package manager, `ruby`, and `bundler`
 - Use your package manager to install [Jekyll](https://jekyllrb.com/docs/installation/) following the steps [here](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll). Don't forget to run `gem install bundler`.
 - The `Gemfile` for the project should be fine, just run `bundle update`
