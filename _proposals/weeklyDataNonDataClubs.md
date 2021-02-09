@@ -1,36 +1,37 @@
 ---
 layout: proposal
-title: Weekly Data and Non-Data Clubs
+title: Weekly SWC lab meeting
 authors: Fred Marbach, Philip Shamash
 category: active
 ---
 
-Go back to weekly data club, as opposed to every other week
+Re-brand data club as lab meeting and go back to weekly rota
 
 <!--end summary-->
 
 ### Purpose
 
-- Frequent meetings are crucial for a collaborative atmosphere. Researchers voted for data club every other week - we believe this decision should not be up to them. We have to impose a structure in the building where people present frequently and attend meetings, planning experiments around these meetings.
-
+- Frequent meetings are crucial for a collaborative atmosphere. Researchers voted for data club every other week - we believe this decision should not be up to them. We have to impose a structure in the building where people present frequently and value attending meetings. Experiments have to be planned around these meetings.
 
 ### Implementation
 
 - Weekly SWC labmeeting over lunch 
-- PIs should make sure the importance to attend is clear to people
-- The brasserie is too small, we should be in the downstairs lecture hall. This means we should find a way for people to have lunch and attend - perhaps the brasserie can provide food downstairs (sandwiches or other type of food that can be eaten easily)?
-- Presentation format, alternating weekly:
-    * 2 presenters; Research talks; 20min + 5min each
-    * 2 presenters; Conceptual talks; 20min + 5min each
-- Opt-in if you wish collaborators to be notified
+- Presentation format:
+    * Research or conceptual talks
+    * 2 presenters; aim to talk for 15min + 10min discussion each
 - Include PIs in the rota
+- PI/presenter can opt-in if you wish London collaborator groups to be notified
+- PIs make sure the importance to attend is clear to people
+- The brasserie is too small - relocate to downstairs lecture hall
+- Lunch is provided
 
 ### Open questions
 
 - Can we do it in the downstairs lecture hall?
 - How is lunch provided?
-- Should we only have one label, SWC labmeeting, but put emphasis on not having to present data?
-- Should these talks always be available on zoom?
+- Should these talks always be available on zoom for internal viewing?
+- How can we incorporate 1h single presenter slots?
+- How do we best mix SWC/GCNU?
 
 ### Stakeholders
 
