@@ -51,7 +51,7 @@ title: RCWG
 ## Minutes
 
 <ul>
-  {% for minute in site.minutes %}
+  {% for minute in site.minutes reversed %}
   <li>
     <a href="{{ minute.url | relative_url  }}">{{ minute.title }}</a>
   </li>
