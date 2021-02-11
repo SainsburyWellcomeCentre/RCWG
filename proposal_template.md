@@ -10,6 +10,8 @@ Here is where your one-line summary goes.
 
 You must add the comment line below (in the raw file) for the summary to work properly.
 
+Dates must be added in ISO format: `yyyy-mm-dd`
+
 <!--end summary-->
 
 Don't forget to change the category if this is a `suggested` proposal! 
