@@ -1,0 +1,26 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+    background: #f2f2f2;
+    color: #1A1A1A;
+}
+
+ul {
+    list-style-type: "→ ";
+    list-style-image: none;
+  }
+
+h1, h2, h3, h4, h5, h6 {
+    color: #004EA8;
+}
+
+a {
+    color: #004EA8;
+}
+
+a:hover {
+    color: #3EB1C8;
+}
