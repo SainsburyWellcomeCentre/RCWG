@@ -55,14 +55,12 @@ To produce open science it is important that we know how to use open science too
 
 - Organize advanced courses on, for example, data acquisition, image analysis, time-series analysis and statistical neuroscience.
 
+### Next steps
+
+Refer to the [Promoting Open Science project](https://github.com/SainsburyWellcomeCentre/RCWG/projects/1).
+
 ### Stakeholders
 
 - Any SWC/GCNU member producing scientific results.
-
-### Next steps
-
-- approve proposal
-- share proposal with SWCU/GCNU members
-- SWC/GCNU-wide meeting to discuss proposal
 
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RCWG
+title: index
 ---
 
 # Research Culture Working Group Portal
@@ -22,7 +22,7 @@ The S-RCWG Slack channel can be found [here](https://swc-neuro.slack.com/archive
 
 ## GitHub
 
-You can submit proposals and minutes on [our GitHub](https://github.com/SainsburyWellcomeCentre/S-RCWG)
+You can submit proposals and minutes on [our GitHub](https://github.com/SainsburyWellcomeCentre/RCWG)
 
 <br>
 <br>
