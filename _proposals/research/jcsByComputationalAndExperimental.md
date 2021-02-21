@@ -2,7 +2,9 @@
 layout: proposal
 title: Journal Clubs Jointly Delivered by Experimental and Computational Scientists
 authors: Joaquin Rapela
-category: suggested
+subgroup: research
+category: active
+date: 2021-01-07 21:56:00
 ---
 
 Journal clubs jointly delivered by a mixture of computational and experimental scientists

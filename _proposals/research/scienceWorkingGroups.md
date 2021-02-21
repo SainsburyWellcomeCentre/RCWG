@@ -2,7 +2,9 @@
 layout: proposal
 title: Scientific Working Groups
 authors: Joaquin Rapela
+subgroup: research
 category: suggested
+date: 2021-01-07 21:59:00
 ---
 
 Working towards a more agile science

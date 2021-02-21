@@ -14,7 +14,9 @@ Dates must be added in ISO format: `yyyy-mm-dd`
 
 <!--end summary-->
 
-Don't forget to change the category if this is a `suggested` proposal! 
+# IMPORTANT!
+
+Pay close attention to the metadata block at the top of the raw markdown (`.md`) file. You must set these values accordingly or your proposal will not display on the website
 
 # Purpose
 
@@ -37,4 +39,3 @@ Don't forget to change the category if this is a `suggested` proposal!
 # Unknowns
 
 - What it says on the tin-- what is important to know for this proposal that is currently unknown?
-- 

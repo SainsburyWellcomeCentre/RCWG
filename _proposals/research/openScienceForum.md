@@ -2,7 +2,9 @@
 layout: proposal
 title: Platform for Open Science
 authors: Spencer Wilson
+subgroup: research
 category: suggested
+date: 2021-01-07 21:57:00
 ---
 
 Towards the development of a workflow for doing radically open science

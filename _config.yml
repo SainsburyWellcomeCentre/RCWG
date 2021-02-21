@@ -21,17 +21,12 @@ sass:
 collections:
   proposals:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:path
   minutes:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:path
   posts:
     output: true
-
-proposal_categories:
-  - active
-  - completed
-  - suggested
 
 # Handling Reading
 safe: false
