@@ -2,13 +2,9 @@
 layout: proposal
 title: Cross-disciplinary Rotations
 authors: Ana Saraiva Ayash, Joaquin Rapela
-<<<<<<< HEAD:_proposals/research/cross_disciplinary_rotations.md
 subgroup: research
 category: active
 date: 2021-01-07 21:55:00
-=======
-category: suggested
->>>>>>> 16104d24d1ce20d6f90377791fd2c31cdeb223e9:_proposals/cross_disciplinary_rotations.md
 ---
 
 Promote collaboration between GCNU and SWC through the PhD program.

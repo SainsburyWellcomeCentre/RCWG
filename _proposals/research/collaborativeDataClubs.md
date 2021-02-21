@@ -2,13 +2,9 @@
 layout: proposal
 title: Collaborative Data Clubs
 authors: Joaquin Rapela
-<<<<<<< HEAD:_proposals/research/collaborativeDataClubs.md
 subgroup: research
 category: active
 date: 2021-01-07 21:54:00
-=======
-category: suggested
->>>>>>> 16104d24d1ce20d6f90377791fd2c31cdeb223e9:_proposals/collaborativeDataClubs.md
 ---
 
 Increase internal scientific communication in a welcoming environment.

@@ -3,6 +3,7 @@ layout: proposal
 title: Weekly SWC lab meeting
 authors: Fred Marbach, Philip Shamash
 category: active
+subgroup: research
 ---
 
 Re-brand data club as lab meeting and go back to weekly rota

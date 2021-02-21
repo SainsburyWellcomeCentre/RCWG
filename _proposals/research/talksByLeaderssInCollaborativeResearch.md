@@ -2,13 +2,9 @@
 layout: proposal
 title: External Speakers on Scientific Culture
 authors: Joaquin Rapela, Hernando M. Vergara
-<<<<<<< HEAD:_proposals/research/talksByLeaderssInCollaborativeResearch.md
 subgroup: research
 category: suggested
 date: 2021-01-07 22:02:00
-=======
-category: active
->>>>>>> 16104d24d1ce20d6f90377791fd2c31cdeb223e9:_proposals/talksByLeaderssInCollaborativeResearch.md
 ---
 
 If you don't know, ask someone!

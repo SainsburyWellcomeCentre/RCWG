@@ -21,10 +21,10 @@ sass:
 collections:
   proposals:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:path
   minutes:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:path
   posts:
     output: true
 
