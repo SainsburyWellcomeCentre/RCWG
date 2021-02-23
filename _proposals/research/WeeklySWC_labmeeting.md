@@ -19,8 +19,8 @@ Re-brand data club as lab meeting and go back to weekly rota
 - Weekly SWC labmeeting over lunch in ground floor lecture hall 
 - Presentation format:
     * Research or conceptual talks
-    * Each week features one lab
-    * The presenting lab decides if 1 presenter (40min+15min) or 2 presenters (15min+10min each)
+    * Twice a month there are 2 presenters (15min+10min each)
+    * Once a month there is only 1 presenter (40min+15min) 
     * Once a month there is a gatsby/swc split meeting
 - Include PIs in the rota
 - Talks are always available on zoom (in-house)
@@ -30,9 +30,11 @@ Re-brand data club as lab meeting and go back to weekly rota
 
 ### Open questions
 
-- Can we do it in the downstairs lecture hall?
+- Book ground floor lecture hall
 - How is lunch provided?
-- How can we incorporate 1h single presenter slots?
+- How do we decide who presents on the 1h slots?
+- Would it be better to randomise the shorter talks wrt labs? (ensures greater attendance)
+- are slots allocated based on lab size? how are 1h slots handled to shift schedule?
 - How do we decide who presents on the swc/gcnu slots?
    * top-down decision by us (use website blurbs (would need to be updated) or google markdown page (would need to be created)) 
    * let PIs decide
