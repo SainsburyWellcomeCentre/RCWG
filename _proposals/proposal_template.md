@@ -1,16 +1,17 @@
 ---
 layout: proposal
-title: A Template for New Proposals
-authors: RCWGer
-permalink: /proposal_template/
-category: suggested
+title: Sample Proposal Title
+authors: Sample Author
+category: <active, completed, or suggested>
+subgroup: <subgroup_name>
+date: YYYY-MM-DD
 ---
 
-Here is where your one-line summary goes.
+Here is where your one-line summary goes. This will be displayed on the subgroup page.
 
-You must add the comment line below (in the raw file) for the summary to work properly.
+Dates must be added to the metadata (at the top of the raw file) in ISO format: `yyyy-mm-dd`
 
-Dates must be added in ISO format: `yyyy-mm-dd`
+You must add the commented line below (in the raw file) for the summary to work properly.
 
 <!--end summary-->
 

@@ -6,3 +6,9 @@ date: YYYY-MM-DD
 facilitator: one person
 notetaker: another person
 ---
+
+## Agenda
+
+## Todo
+
+## Next Meeting

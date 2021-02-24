@@ -1,12 +1,13 @@
 ---
 layout: proposal
-title: Weekly SWC lab meeting
+title: Weekly SWC Lab Meeting
 authors: Fred Marbach, Philip Shamash
 category: active
 subgroup: research
+date: 2021-02-24
 ---
 
-Re-brand 'Data Club' as 'SWC lab meeting' and go back to weekly rota
+Re-brand 'Data Club' to 'SWC Lab Meeting' and return to weekly rota.
 
 <!--end summary-->
 
