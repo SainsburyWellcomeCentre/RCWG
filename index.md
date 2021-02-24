@@ -1,6 +1,6 @@
 ---
 layout: default
-title: index
+title: RCWG
 ---
 
 # Research Culture Working Group Portal
