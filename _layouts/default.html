@@ -1,34 +1,39 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ page.title }}</title>
-    {% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <link rel="shortcut icon" type="image/x-icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}" >
-    <style>
-      .content-container {
-        margin-left: 15%;
-        padding-top: 20px;
-        max-width: 70%;
-      }
-      .footer {
-        margin-left: 10%;
-        max-width: 80%;
-      }
-    </style>
-  </head>
-  <body>
-    <div class=content-container>
+<html lang="{{ site.lang | default: " en-US" }}">
 
-      {{ content }}
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }}</title>
+  {% seo %}
+  <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  <link rel="shortcut icon" type="image/x-icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}">
+  <style>
+    .content-container {
+      margin-left: 15%;
+      padding-top: 20px;
+      max-width: 70%;
+    }
 
-    </div>
-    {% include footer.html %}
-    {% if site.google_analytics %}
-        {% include googleanalytics.html %}
-    {% endif %}
-  </body>
+    .footer {
+      margin-left: 10%;
+      max-width: 80%;
+    }
+  </style>
+</head>
+
+<body>
+  {% include nav.html %}
+  <div class=content-container>
+
+    {{ content }}
+
+  </div>
+  {% include footer.html %}
+  {% if site.google_analytics %}
+  {% include googleanalytics.html %}
+  {% endif %}
+</body>
+
 </html>
