@@ -4,6 +4,15 @@ layout: default
 
 <h1>Proposals</h1>
 
+<a href="https://github.com/SainsburyWellcomeCentre/RCWG/new/main/_proposals/{{ page.name | replace: '.md'
+}}">Submit new proposal</a>
+<br>
+<a href="https://github.com/SainsburyWellcomeCentre/RCWG/new/main/_minutes/{{ page.name | replace: '.md'
+}}">Submit new minutes</a>
+
+<br>
+<br>
+
 <h2>Active</h2>
 
 {% assign sorted_proposals = site.proposals | sort: 'date' | reverse %}
