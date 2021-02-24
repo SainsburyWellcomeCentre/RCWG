@@ -53,7 +53,7 @@ You can submit proposals and minutes through [our GitHub repo](https://github.co
 
 ## Slack
 
-Join our [RCWG Slack channel](https://join.slack.com/share/zt-mthf5qcz-klb7VeFxB_qp54yOiD5qOQ) for questions, comments, and discussion.
+Join our [RCWG Slack channel](https://app.slack.com/client/T7S8UFBGR/C01C1CPLDNY) for questions, comments, and discussion.
 
 <br>
 <br>
