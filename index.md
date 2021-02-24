@@ -47,13 +47,13 @@ title: RCWG
 - Alternative Tea Hour: Christmas Pub Quiz (Dec 2020)
 
 
-## Slack
-
-The S-RCWG Slack channel can be found [here](https://swc-neuro.slack.com/archives/C01CK2NTV32)
-
 ## GitHub
 
-You can submit proposals and minutes on [our GitHub](https://github.com/SainsburyWellcomeCentre/RCWG)
+You can submit proposals and minutes through [our GitHub repo](https://github.com/SainsburyWellcomeCentre/RCWG).
+
+## Slack
+
+Join our [RCWG Slack channel](https://join.slack.com/share/zt-mthf5qcz-klb7VeFxB_qp54yOiD5qOQ) for questions, comments, and discussion.
 
 <br>
 <br>
