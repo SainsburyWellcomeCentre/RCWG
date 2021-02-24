@@ -20,6 +20,8 @@ title: RCWG
 
 *Here is a short list of our "wins" to remind us of progress we've made.*
 
+Please add to this list [here](https://github.com/SainsburyWellcomeCentre/RCWG/edit/main/index.md)
+
 ### Main
 
 - Agree to use GitHub as a centralized platform (Feb 2021)
@@ -45,7 +47,6 @@ title: RCWG
 - Alternative Tea Hour: AmongUs Games Night (Jan 2021)
 - SWC Secret Santa (Dec 2020)
 - Alternative Tea Hour: Christmas Pub Quiz (Dec 2020)
-
 
 ## GitHub
 
