@@ -6,13 +6,13 @@ category: active
 subgroup: research
 ---
 
-Re-brand data club as lab meeting and go back to weekly rota
+Re-brand 'Data Club' as 'SWC lab meeting' and go back to weekly rota
 
 <!--end summary-->
 
 ### Purpose
 
-- Frequent meetings are crucial for a collaborative atmosphere. Researchers voted for data club every other week - we believe this decision should not be up to them. We have to impose a structure in the building where people present frequently and value attending meetings. Experiments have to be planned around these meetings.
+- Frequent meetings are crucial for a collaborative atmosphere. Recently, researchers voted for data club every other week - we believe this decision should not be up to them. We have to impose a structure in the building where people present frequently and value attending meetings. Experiments have to be planned around these meetings.
 
 ### Implementation
 
@@ -21,20 +21,23 @@ Re-brand data club as lab meeting and go back to weekly rota
     * Research or conceptual talks
     * Twice a month there are 2 presenters (15min+10min each)
     * Once a month there is only 1 presenter (40min+15min) 
-    * Once a month there is a gatsby/swc split meeting
-- Include PIs in the rota
+    * Once a month there is a gcnu/swc split meeting
 - Talks are always available on zoom (in-house)
-- PI/presenter can opt-in if you wish London collaborator groups to be notified
+- PI/presenter can opt-in if they wish London collaborator groups to be notified
 - PIs make sure the importance to attend is clear to people
-- Lunch is provided
+- Lunch is provided (Brasserie 'take-out' style)
+- How the rota is handled:
+   * the 4 short slots are randomised across all swc researchers+PIs
+   * the 2 gcnu/swc slots are handpicked initially to ensure common interests
+   * the longer slots are randomised across the late phd / postdoc cohort
+   * people who want a long slot can swap with someone who is assigned one
 
 ### Open questions
 
-- Book ground floor lecture hall
+- Is the ground floor lecture hall available?
 - How is lunch provided?
+   * Ask Brasserie to provide 'take out' style lunch on wednesdays
 - How do we decide who presents on the 1h slots?
-- Would it be better to randomise the shorter talks wrt labs? (ensures greater attendance)
-- are slots allocated based on lab size? how are 1h slots handled to shift schedule?
 - How do we decide who presents on the swc/gcnu slots?
    * top-down decision by us (use website blurbs (would need to be updated) or google markdown page (would need to be created)) 
    * let PIs decide
