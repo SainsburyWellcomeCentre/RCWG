@@ -7,6 +7,8 @@ layout: default
 <a href="https://github.com/SainsburyWellcomeCentre/RCWG/new/main/_proposals/{{ page.name | replace: '.md'
 }}">Submit new proposal</a>
 
+<br>
+
 <h2>Active</h2>
 
 {% assign sorted_proposals = site.proposals | where:"subgroup", page.subgroup | where:"category", "active" | sort:
