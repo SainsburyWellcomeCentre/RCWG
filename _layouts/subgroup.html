@@ -4,6 +4,9 @@ layout: default
 
 <h1>Proposals</h1>
 
+<a href="https://github.com/SainsburyWellcomeCentre/RCWG/new/main/_proposals/{{ page.name | replace: '.md'
+}}">Submit new proposal</a>
+
 <h2>Active</h2>
 
 {% assign sorted_proposals = site.proposals | where:"subgroup", page.subgroup | where:"category", "active" | sort:
@@ -52,9 +55,6 @@ No suggested proposals. <br><br>
   {% endfor %}
 </ul>
 {% endif %}
-
-<a href="https://github.com/SainsburyWellcomeCentre/RCWG/new/main/_proposals/{{ page.name | replace: '.md'
-}}">Submit new proposal</a>
 
 <br>
 <br>
