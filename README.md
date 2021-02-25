@@ -10,7 +10,7 @@ Research Culture Working Group
 
 ## Submitting Proposals
 
-- write a draft following the [proposal template](https://github.com/SainsburyWellcomeCentre/S-RCWG/blob/main/proposal_template.md)
+- write a draft following the [proposal template](https://github.com/SainsburyWellcomeCentre/S-RCWG/blob/main/_proposals/_proposal_template.md)
 - go to the [_proposals folder](https://github.com/SainsburyWellcomeCentre/S-RCWG/tree/main/_proposals) and click `add file`.
 - paste your draft proposal into the new file
 - click the buttons at the bottom to create a branch and submit a pull request
