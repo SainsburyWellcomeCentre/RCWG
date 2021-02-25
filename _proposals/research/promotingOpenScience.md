@@ -19,7 +19,7 @@ Make open-science flourish at the SWC/GCNU.
 
 - Every paper published by authors from the SWC/GCNU provides links to a repository containing the code used to generate the paper and, whenever possible, links to the complete data set, or a sample of it.
 
-- The code of every laboratory is under version control in the internal [SWC Github organization](https://github.com/SainsburyWellcomeCentre). In this way code can be reused easily across the SWC/GCNU.
+- The code of every laboratory is under version control in the internal [SWC Github organization](https://github.com/SainsburyWellcomeCentre).
 
 ### Why should we care about open science?
 
@@ -31,7 +31,7 @@ Make open-science flourish at the SWC/GCNU.
 
 ### What are we doing to promote open science at the SWC/GCNU?
 
-To produce open science it is important that we know how to use open science tools like Git, Github, Python and Anaconda. We will build on previous work by past (Charly Rosseau and Maxime Rio) and current (Adam Tyson and Steve Lenzi) SWC members to exapnd open-science related activities at the SWC/GCNU. We offer to:
+To produce open science it is important that we know how to use open science tools like Git, Github, Python and Anaconda. We will build on previous work by past (Charly Rosseau and Maxime Rio) and current (Adam Tyson and Steve Lenzi) SWC members to expand open-science related activities at the SWC/GCNU. We offer to:
 
 - Create an Open Science organization to centralize activities at the SWC/GCNU related to open science.
 
@@ -67,9 +67,9 @@ To produce open science it is important that we know how to use open science too
 
 ### How could SWC/GCNU faculty help promote open science?
 
-1. Encouraging their lab members to publish their papers with links to the code and the data (whenever possible) used to produce their papers.
+1. Encouraging their lab members to publish their papers with links to their code and the data (whenever possible).
 
-2. To have a critical mass of expertise on open-science tools, it would help if every laboratory at the SWC/GCNU has at least one member well trained on the use of open data-science tools. If a laboratory does not have a person with this training, the principal investigator could ask one of his/her team members to attend PyStarters. This person will then help his/her lab colleagues use open-science tools.
+2. It would help if every laboratory at the SWC/GCNU has at least one member well trained on the use of open data-science tools. This person will then help his/her lab colleagues use these tools. If a laboratory does not have such a person, the principal investigator could ask one of his/her team members to attend PyStarters.
 
 ### Next steps
 
