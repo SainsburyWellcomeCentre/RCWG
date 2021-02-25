@@ -9,6 +9,7 @@ date: 2020-10-15
 
 Run a Secret Santa contactless gift exchange for the entire SWC/GCNU
 
+<!--end summary-->
 
 ### Purpose
 

@@ -1,6 +1,6 @@
 ---
 layout: proposal
-title: Tea Hours for Everyone: AmongUs Game Night
+title: Tea Hours for Everyone -- AmongUs Game Night
 authors: Hernando Martinez Vergara
 subgroup: community
 category: completed
@@ -8,6 +8,8 @@ date: 2021-01-08
 ---
 
 Host an AmongUs game
+
+<!--end summary-->
 
 ### Purpose
 

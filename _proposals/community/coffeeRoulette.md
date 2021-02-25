@@ -9,6 +9,7 @@ date: 2021-01-08
 
 An opportunity to meet people over coffee
 
+<!--end summary-->
 
 ### Purpose
 

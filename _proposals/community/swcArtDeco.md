@@ -9,6 +9,7 @@ date: 2020-12-09
 
 Improve the building interior
 
+<!--end summary-->
 
 ### Purpose
 

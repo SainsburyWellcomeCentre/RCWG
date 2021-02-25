@@ -9,6 +9,7 @@ date: 2020-10-15
 
 Establish a body that supports social interest groups
 
+<!--end summary-->
 
 ### Purpose
 

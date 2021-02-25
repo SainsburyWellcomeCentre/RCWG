@@ -9,6 +9,8 @@ date: 2020-10-15
 
 Make alternaTEA hours the norm
 
+<!--end summary-->
+
 ### Concept
 
 Make the tea hours fun and accessible to everyone by replacing data-heavy neuroscience presentations with games and entertaining popular science talks. While tea hours cannot happen in person, focus particularly on activities that require active participation.

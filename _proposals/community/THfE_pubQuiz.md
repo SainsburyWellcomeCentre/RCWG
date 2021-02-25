@@ -1,6 +1,6 @@
 ---
 layout: proposal
-title: Tea Hours for Everyone: Seasonal Pub Quiz
+title: Tea Hours for Everyone -- Seasonal Pub Quiz
 authors: Svenja Nierwetberg
 subgroup: community
 category: completed
@@ -9,6 +9,7 @@ date: 2020-10-15
 
 Host a festive, neuroscience-free pub quiz
 
+<!--end summary-->
 
 ### Purpose
 
