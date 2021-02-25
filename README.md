@@ -10,19 +10,21 @@ Research Culture Working Group
 
 ## Submitting Proposals
 
-- write a draft following the [proposal template](https://github.com/SainsburyWellcomeCentre/S-RCWG/blob/main/_proposals/_proposal_template.md)
-- go to the [_proposals folder](https://github.com/SainsburyWellcomeCentre/S-RCWG/tree/main/_proposals) and click `add file`.
+- write a draft following the [proposal template](https://github.com/SainsburyWellcomeCentre/S-RCWG/blob/main/_proposals/_proposal_template.md), paying attention to the metadata and the "below summary" comment line.
+- go to the [_proposals folder](https://github.com/SainsburyWellcomeCentre/S-RCWG/tree/main/_proposals) and click `add file`. (NB: If a folder does not exist for your subgroup, please submit an issue.)
 - paste your draft proposal into the new file
 - click the buttons at the bottom to create a branch and submit a pull request
 	- name your branch in the format `<your name>-<proposal>-<proposal keyword>`
-- submit the pull request so that the group can comment and suggest changes
+- submit the pull request so that the group can comment, suggest changes, and approve the request
 - you can edit your proposal by switching to your proposal's branch (on the main GitHub page) and editing the proposal file
+- if you have any trouble at all, reach out on Slack or submit an issue describing your situation
 
 ## Submitting  Minutes
 
-- take the minutes in markdown format (look at other files in [_minutes folder](https://github.com/SainsburyWellcomeCentre/S-RCWG/tree/main/_minutes) for reference)
-- in the [_minutes folder](https://github.com/SainsburyWellcomeCentre/S-RCWG/tree/main/_minutes), click `add file` and add your minutes
-- name the file the meeting date in the format `<day>-<month>-<year>` using numbers
+- take the minutes in markdown format (see the template file in the [_minutes folder](https://github.com/SainsburyWellcomeCentre/S-RCWG/tree/main/_minutes) for reference)
+- pay careful attention to the file's metadata tags! 
+- in the [_minutes folder](https://github.com/SainsburyWellcomeCentre/S-RCWG/tree/main/_minutes), click `add file` and add your minutes. (NB: If a folder does not exist for your subgroup, please submit an issue.)
+- name the file using the meeting date in the format `<subgroup_name>_<day>_<month>_<year>` using numbers
 - click `commit directly to the main branch` to add the new file
 
 
