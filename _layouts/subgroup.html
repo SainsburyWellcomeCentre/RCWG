@@ -5,8 +5,9 @@ layout: default
 <h1>Proposals</h1>
 
 <a href="https://github.com/SainsburyWellcomeCentre/RCWG/new/main/_proposals/{{ page.name | replace: '.md'
-}}">Submit new proposal</a>
+}}">✏️ Submit new proposal</a>
 
+<br>
 <br>
 
 <h2>Active</h2>
@@ -64,6 +65,12 @@ No suggested proposals. <br><br>
 
 <h2>Minutes</h2>
 
+<a href="https://github.com/SainsburyWellcomeCentre/RCWG/new/main/_minutes/{{ page.name | replace: '.md'
+}}">✏️ Submit new minutes</a>
+
+<br>
+<br>
+
 {% assign sorted_minutes = site.minutes | where:"subgroup", page.subgroup | sort: 'date' | reverse %}
 {% if sorted_minutes == empty %}
 No minutes have been recorded. <br><br>
@@ -77,8 +84,6 @@ No minutes have been recorded. <br><br>
 </ul>
 {% endif %}
 
-<a href="https://github.com/SainsburyWellcomeCentre/RCWG/new/main/_minutes/{{ page.name | replace: '.md'
-}}">Submit new minutes</a>
 
 <br>
 <br>
