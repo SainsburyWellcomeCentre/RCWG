@@ -9,15 +9,13 @@ date: YYYY-MM-DD
 
 Here is where your one-line summary goes. This will be displayed on the subgroup page.
 
-Dates must be added to the metadata (at the top of the raw file) in ISO format: `yyyy-mm-dd`
-
-You must add the commented line below (in the raw file) for the summary to work properly.
-
 <!--end summary-->
 
 # IMPORTANT!
 
-Pay close attention to the metadata block at the top of the raw markdown (`.md`) file. You must set these values accordingly or your proposal will not display on the website
+Pay close attention to the metadata block at the top of the raw markdown (`.md`) file. You must set these values accordingly or your proposal will not display on the website. Avoid using colons in your proposal title because they have a special meaning in the metadata.
+
+You must also add `<!--end summary-->` after your one-line summary (see the raw file) for the summary to work properly.
 
 # Purpose
 
