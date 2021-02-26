@@ -67,9 +67,11 @@ To produce open science it is important that we know how to use open science too
 
 ### How could SWC/GCNU faculty help promote open science?
 
-1. Encouraging their lab members to publish their papers with links to their code and the data (whenever possible).
+1. Asking their lab members to put their code under version control (e.g., git/Github) and learn how to use it.
 
-2. It would help if every laboratory at the SWC/GCNU has at least one member well trained on the use of open data-science tools. This person will then help his/her lab colleagues use these tools. If a laboratory does not have such a person, the principal investigator could ask one of his/her team members to attend PyStarters.
+2. Encouraging their lab members to publish their papers with links to their code and the data (whenever possible).
+
+3. It would help if every laboratory at the SWC/GCNU has at least one member well trained on the use of open data-science tools. This person will then help his/her lab colleagues use these tools. If a laboratory does not have such a person, the principal investigator could ask one of his/her team members to attend PyStarters.
 
 ### Next steps
 
