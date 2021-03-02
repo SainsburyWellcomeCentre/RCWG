@@ -1,6 +1,7 @@
 ---
 layout: default
 title: RCWG
+subgroup: main
 ---
 
 # Research Culture Working Group Portal
@@ -15,6 +16,27 @@ title: RCWG
 - [Communication](communication)
 - [Community](community)
 - [Careers](careers)
+
+## Main Meeting Minutes
+
+<a href="https://github.com/SainsburyWellcomeCentre/RCWG/new/main/_minutes/{{ page.name | replace: '.md'
+}}">✏️ Submit new minutes from the main group meetings</a>
+
+{% assign sorted_minutes = site.minutes | where:"subgroup", page.subgroup | sort: 'date' | reverse %}
+{% if sorted_minutes == empty %}
+No minutes have been recorded. 
+<br>
+<br>
+
+{% else %}
+<ul>
+  {% for minute in sorted_minutes %}
+  <li>
+    <a href="{{ minute.url | relative_url  }}">{{ minute.title }}</a>
+  </li>
+  {% endfor %}
+</ul>
+{% endif %}
 
 ## Progress Timeline
 
@@ -33,6 +55,10 @@ Please add to this list [here](https://github.com/SainsburyWellcomeCentre/RCWG/e
 ### Comms 
 
 - Growth in Slack Adoption (Double the user count) (Nov 2020)
+
+### Careers
+
+- Restarted with the Athena SWAN momentum
 
 ### Research
 
