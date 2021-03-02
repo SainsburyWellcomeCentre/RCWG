@@ -1,0 +1,17 @@
+<h2>Minutes</h2>
+
+<a href="https://github.com/SainsburyWellcomeCentre/RCWG/new/main/_minutes/{{ page.name | replace: '.md'
+}}">✏️ Submit new minutes</a>
+
+{% assign sorted_minutes = site.minutes | where:"subgroup", page.subgroup | sort: 'date' | reverse %}
+{% if sorted_minutes == empty %}
+No minutes have been recorded. <br><br>
+{% else %}
+<ul>
+  {% for minute in sorted_minutes %}
+  <li>
+    <a href="{{ minute.url | relative_url  }}">{{ minute.title }}</a>
+  </li>
+  {% endfor %}
+</ul>
+{% endif %}

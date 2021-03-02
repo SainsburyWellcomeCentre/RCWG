@@ -1,13 +1,13 @@
 ---
 layout: proposal
-title: External Speakers on Scientific Culture
-authors: Joaquin Rapela, Hernando M. Vergara
-subgroup: research
-category: suggested
-date: 2021-01-07 22:02:00
+title: External Speakers on Research Culture
+authors: Spencer Wilson, Joaquin Rapela, Hernando M. Vergara
+category: active
+subgroup: main
+date: 2021-03-02
 ---
 
-If you don't know, ask someone!
+Time to call in the experts.
 
 <!--end summary-->
 
@@ -22,16 +22,20 @@ If you don't know, ask someone!
 - Spark the imagination for what scientific environment we want to build
 
 
-### Implementation
+### Potential Speakers
 
 For example, we could ask:
 
-- Ken Harris and Mateo Carandini, or Liam Paninksi (IBL)
+- Graeme Moffat (Munk School Public Policy)
+- Patrick Mineault (Neuromatch)
+- Olivia Guest (Radboud University)
+- Lauren Wool (IBL structure and policy making lead)
+- Kirstie Whitaker (Turing Institute)
+- Ken Harris and Mateo Carandini (UCL)
+- Liam Paninksi (IBL)
 - Christof Koch (Allen Institute)
 - Demis Hassabis (Deepmind)
-- Lauren Wool (IBL structure and policy making lead)
 - Andre Marques-Smith (series of blogposts on changing the scientific environment)
-- Kirstie Whitaker (Turing Institute, flippin amazing)
 
 to deliver talks at the SWC about their experiences and ideas organising their multidisciplinary environments, what things work and what did not, how they perform their sociological experiments (e.g., motivations), how they see the future of team-based Neuroscience.
 

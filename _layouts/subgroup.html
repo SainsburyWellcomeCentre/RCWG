@@ -2,88 +2,12 @@
 layout: default
 ---
 
-<h1>Proposals</h1>
-
-<a href="https://github.com/SainsburyWellcomeCentre/RCWG/new/main/_proposals/{{ page.name | replace: '.md'
-}}">✏️ Submit new proposal</a>
+{% include proposals.html %}
 
 <br>
 <br>
 
-<h2>Active</h2>
-
-{% assign sorted_proposals = site.proposals | where:"subgroup", page.subgroup | where:"category", "active" | sort:
-'date' | reverse %}
-{% if sorted_proposals == empty %}
-No active proposals. <br><br>
-{% else %}
-<ul>
-  {% for proposal in sorted_proposals %}
-  <li>
-    <a href="{{ proposal.url | relative_url  }}">{{ proposal.title }}</a> ({{ proposal.authors }})
-    <em>{{ proposal.excerpt }} </em>
-  </li>
-  {% endfor %}
-</ul>
-{% endif %}
-
-<h2>Completed</h2>
-
-{% assign sorted_proposals = site.proposals | where:"subgroup", page.subgroup | where:"category", "completed" %}
-{% if sorted_proposals == empty %}
-No completed proposals. <br><br>
-{% else %}
-<ul>
-  {% for proposal in sorted_proposals %}
-  <li>
-    <a href="{{ proposal.url | relative_url  }}">{{ proposal.title }}</a> ({{ proposal.authors }})
-    <em>{{ proposal.excerpt }} </em>
-  </li>
-  {% endfor %}
-</ul>
-{% endif %}
-
-<h2>Suggested</h2>
-
-{% assign sorted_proposals = site.proposals | where:"subgroup", page.subgroup | where:"category", "suggested" %}
-{% if sorted_proposals == empty %}
-No suggested proposals. <br><br>
-{% else %}
-<ul>
-  {% for proposal in sorted_proposals %}
-  <li>
-    <a href="{{ proposal.url | relative_url  }}">{{ proposal.title }}</a> ({{ proposal.authors }})
-    <em>{{ proposal.excerpt }} </em>
-  </li>
-  {% endfor %}
-</ul>
-{% endif %}
-
-<br>
-<br>
-
-
-<h2>Minutes</h2>
-
-<a href="https://github.com/SainsburyWellcomeCentre/RCWG/new/main/_minutes/{{ page.name | replace: '.md'
-}}">✏️ Submit new minutes</a>
-
-<br>
-<br>
-
-{% assign sorted_minutes = site.minutes | where:"subgroup", page.subgroup | sort: 'date' | reverse %}
-{% if sorted_minutes == empty %}
-No minutes have been recorded. <br><br>
-{% else %}
-<ul>
-  {% for minute in sorted_minutes %}
-  <li>
-    <a href="{{ minute.url | relative_url  }}">{{ minute.title }}</a>
-  </li>
-  {% endfor %}
-</ul>
-{% endif %}
-
+{% include minutes.html %}
 
 <br>
 <br>

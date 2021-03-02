@@ -1,0 +1,67 @@
+{% if page.subgroup != "main" %}
+
+<h1>Proposals</h1>
+
+<a href="https://github.com/SainsburyWellcomeCentre/RCWG/new/main/_proposals/{{ page.name | replace: '.md'
+}}">✏️ Submit new proposal</a>
+<br><br>
+
+{% else %}
+
+<h1>Main Group Proposals</h1>
+
+*General proposals across all subgroups.*
+
+<a href="https://github.com/SainsburyWellcomeCentre/RCWG/new/main/_proposals/{{ page.name | replace: '.md'
+}}">✏️ Submit new proposal</a>
+
+{% endif %}
+
+<h3>Active</h3>
+
+{% assign sorted_proposals = site.proposals | where:"subgroup", page.subgroup | where:"category", "active" | sort:
+'date' | reverse %}
+{% if sorted_proposals == empty %}
+No active proposals. <br><br>
+{% else %}
+<ul>
+  {% for proposal in sorted_proposals %}
+  <li>
+    <a href="{{ proposal.url | relative_url  }}">{{ proposal.title }}</a> ({{ proposal.authors }})
+    <em>{{ proposal.excerpt }} </em>
+  </li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+<h3>Completed</h3>
+
+{% assign sorted_proposals = site.proposals | where:"subgroup", page.subgroup | where:"category", "completed" %}
+{% if sorted_proposals == empty %}
+No completed proposals. <br><br>
+{% else %}
+<ul>
+  {% for proposal in sorted_proposals %}
+  <li>
+    <a href="{{ proposal.url | relative_url  }}">{{ proposal.title }}</a> ({{ proposal.authors }})
+    <em>{{ proposal.excerpt }} </em>
+  </li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+<h3>Suggested</h3>
+
+{% assign sorted_proposals = site.proposals | where:"subgroup", page.subgroup | where:"category", "suggested" %}
+{% if sorted_proposals == empty %}
+No suggested proposals. <br><br>
+{% else %}
+<ul>
+  {% for proposal in sorted_proposals %}
+  <li>
+    <a href="{{ proposal.url | relative_url  }}">{{ proposal.title }}</a> ({{ proposal.authors }})
+    <em>{{ proposal.excerpt }} </em>
+  </li>
+  {% endfor %}
+</ul>
+{% endif %}
