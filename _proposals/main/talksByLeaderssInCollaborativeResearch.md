@@ -26,6 +26,7 @@ Time to call in the experts.
 
 For example, we could ask:
 
+- Michael Eisen (eLife)
 - Graeme Moffat (Munk School Public Policy)
 - Patrick Mineault (Neuromatch)
 - Olivia Guest (Radboud University)
