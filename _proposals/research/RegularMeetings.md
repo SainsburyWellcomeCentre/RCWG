@@ -26,7 +26,7 @@ they decide whether they would like regular meetings and if so, how frequent, ~h
 - While the PI is usually part of the "project team" that has this conversation, they don't necessarily need to be in the meetings. It could be just a student and postdoc for example
 - The "first author" of the project sends the output of this conversation to HR
 - The meeting parameters can be adjusted by the team at any point
-- Twice per year, HR asks the "first author" to what degree the meetings are actually happening, if the parameters have been adjusted, and if the trainee is satisfied with how it's going. If unsatisfied, they encourage the "first author" to ask the "team" to make adjustments.
+- Once per year, HR asks the "first author" to what degree the meetings are actually happening, if the parameters have been adjusted, and if the trainee is satisfied with how it's going. If unsatisfied, they encourage the "first author" to ask the "team" to make adjustments.
 - To be clear: researchers are not required to give regular updates, and PIs are not required to give regular feedback. They are just required to have an explicit conversation about whether this is something that they want.
 
 
