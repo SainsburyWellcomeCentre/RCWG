@@ -17,12 +17,12 @@ Slack channels for discussion and Q&A about technical topics, analysis, and conc
 
 # To-Do
 
-- Coordinate with Emma to create the channels on the list below
-- Coordinate with Ana/Barry/John to create a tunnel from the Gatsby slack to the SWC slack on these channels
-- Announce these channels at the Town Hall 29.1.21 3pm
-- Week of 2.2.21: add all researchers, send a slack message on general
+- [x] Coordinate with Emma to create the channels on the list below
+- [x] Coordinate with Ana/Barry/John to create a tunnel from the Gatsby slack to the SWC slack on these channels
+- [x] Announce these channels at the Town Hall 29.1.21 3pm
+- [x] Week of 2.2.21: add all researchers, send a slack message on general
 
-## Current list of channels to add
+## Current list of channels
 **forum-analysis** Data analysis, statistics, and modeling questions 
 - what is the best statistical model I could use to characterize visual selectivity in my Neuropixel recordings?
 
