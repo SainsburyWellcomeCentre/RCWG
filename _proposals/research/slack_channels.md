@@ -20,9 +20,7 @@ Slack channels for discussion and Q&A about technical topics, analysis, and conc
 - Coordinate with Emma to create the channels on the list below
 - Coordinate with Ana/Barry/John to create a tunnel from the Gatsby slack to the SWC slack on these channels
 - Announce these channels at the Town Hall 29.1.21 3pm
-- Week of 2.2.21: add all researchers, send an email and a slack message on general (including promoting existing channels)
-- Week of 9.2.21: organize questions to plant on each channel to serve as an example of how to use the forums
-- Week of 24.2.21: reassess, and engage particular experts if it's not happening organically
+- Week of 2.2.21: add all researchers, send a slack message on general
 
 ## Current list of channels to add
 **forum-analysis** Data analysis, statistics, and modeling questions 
@@ -52,7 +50,7 @@ Slack channels for discussion and Q&A about technical topics, analysis, and conc
 **forum-molecular-bio** help with cell-type markers, labeling, sequencing/transcriptomics, etc
 - has anyone used RNA scope for identifying cell types of interest and can help?
 
-**forum-ML-and-neural-networks** Machine learning and neural networks questions
+**forum-machine-learning-nns** Machine learning and neural networks questions
 - How do I put dropout in my PyTorch network?
 
 **forum-misc** Science questions that don't fit into the other categories.
