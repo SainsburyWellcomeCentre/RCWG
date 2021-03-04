@@ -16,6 +16,7 @@ Ensuring that all students and postdocs who would like regular feedback can get 
 - Improve the project-management aspect of science at SWC. 
 - Increase efficiency and motivation. Decrease isolation.
 - Many trainees desire regular meetings with their PI and/or other members of their team but feel inhibited from asking for this.
+- Make a culture in which trainees feel totally comfortable setting up the working conditions in which they do best, and modifying them as needed.
 
 
 ### Implementation (initial idea)
@@ -26,7 +27,7 @@ they decide whether they would like regular meetings and if so, how frequent, ~h
 - While the PI is usually part of the "project team" that has this conversation, they don't necessarily need to be in the meetings. It could be just a student and postdoc for example
 - The "first author" of the project sends the output of this conversation to HR
 - The meeting parameters can be adjusted by the team at any point
-- Once per year, HR asks the "first author" to what degree the meetings are actually happening, if the parameters have been adjusted, and if the trainee is satisfied with how it's going. If unsatisfied, they encourage the "first author" to ask the "team" to make adjustments.
+- Once per year, HR asks the "first authors" to what degree the meetings are actually happening, if the parameters have been adjusted, and if the trainee is satisfied with how it's going. If unsatisfied, they encourage the "first author" to ask the "team" to make adjustments.
 - To be clear: researchers are not required to give regular updates, and PIs are not required to give regular feedback. They are just required to have an explicit conversation about whether this is something that they want.
 
 
@@ -34,4 +35,5 @@ they decide whether they would like regular meetings and if so, how frequent, ~h
 
 - Should this only be put in place for incoming students/postdocs or for everyone?
 - Should there be a suggested minimum? For example, a 15-minute meeting once every two weeks or 30-minute meeting once per month?
+- Does HR have the overhead to check in with researchers (or just students) on whether they are satisfied with the project-management aspect of their work, once per year? Should they? Should/can we do this without involving HR?
 
