@@ -13,10 +13,9 @@ Ensuring that all students and postdocs who would like regular feedback can get 
 
 ### Motivation
 
-- Improve the project-management aspect of science at SWC. 
 - Increase efficiency and motivation. Decrease isolation.
 - Many trainees desire regular meetings with their PI and/or other members of their team but feel inhibited from asking for this.
-- Make a culture in which trainees feel totally comfortable setting up the working conditions in which they do best, and modifying them as needed.
+- Make a culture in which trainees feel obligated to set up the working conditions in which they do best, and modifying them as needed.
 
 
 ### Implementation (initial idea)
