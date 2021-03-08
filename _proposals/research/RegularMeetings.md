@@ -4,7 +4,7 @@ title: Conscious decision about regular project meetings
 authors: Philip Shamash
 subgroup: research
 category: suggested
-date: 2021-03-04 11:57:00
+date: 2021-03-04
 ---
 
 Ensuring that all students and postdocs who would like regular feedback can get it
