@@ -20,7 +20,7 @@ Ensuring that all students and postdocs who would like regular feedback can get 
 
 ### Implementation (initial idea)
 
-- HR "mandates" that each scientist (phd student, masters student, postdoc, RA) has a conversation with their "project team" in which 
+- HR tells each scientist (phd student, masters student, postdoc, RA) to have a conversation with their "project team" in which 
 they decide whether they would like regular meetings about how the project is going. If so, how frequent, ~how long, who will attend, and on what day/time
 - This conversation occurs as soon as someone joins a lab
 - While the PI is usually part of the "project team", they don't necessarily need to be in all the meetings. It could be just a student and postdoc for example
