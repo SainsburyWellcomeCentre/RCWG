@@ -8,6 +8,9 @@ subgroup: main
 
 *We are a group of SWC and GCNU communitarians thinking and acting to improve our research environment and practice*.
 
+__Please note: this page is currently public-facing. Anyone can access this webpage and the corresponding Github repository.__<br>
+__Editing these pages requires approval, but viewing does not. We are working towards limiting access to this content.__
+
 ## Subgroup Pages
 
 *Click on one of our subgroup pages to see active, suggested, and completed work as well as to submit your own ideas.*
